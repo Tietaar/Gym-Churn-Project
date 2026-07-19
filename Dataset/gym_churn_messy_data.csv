@@ -1,0 +1,1001 @@
+Subscription_Status,Age,Monthly_Fee,Avg_Class_Attendance,Check_Ins_Per_Month,Years_As_Member,Cardio_Machine_Minutes,Weight_Room_Minutes,Personal_Trainer_Sessions,Complaints_Filed,Friend_Referrals,Gender,Home_Branch,Payment_Method,Join_Date,Promo_Code_Used,Locker_Rented,Favorite_Workout_Time,Member_ID,Notes_Field
+Renewed,36,59.99,4,8,0.2,173,177,0,3,0,F,Northside,Cash,01/01/22,WINTER20,No,Morning,GYM-42239,Requested new barbell sets
+Expired,21,49.99,4,12,1.3,190,143,1,1,0,m,Downtown,Direct Debit,2022-01-02,nan,No,Night,GYM-77100,Requested new barbell sets
+Cancelled,38,59.99,5,3,1.3,139,327,0,2,0,m,Northside,Cash,2022-01-03,nan,Y,Afternoon,GYM-49581,Prefers morning yoga
+Cancelled,41,59.99,4,2,2.1,296,367,1,4,0,Female,Uptown,Cash,2022-01-05,nan,Yes,Night,GYM-27866,Showers are cold
+Renewed,40,79.99,4,4,1.3,118,306,2,0,0,femal,Downtown,Credit Card,06/01/22,nan,No,Night,GYM-67056,Prefers morning yoga
+Renewed,45,,7,6,0.3,274,398,0,0,0,Male,Uptown,Credit Card,2022-01-08,nan,Yes,Night,GYM-31266,Requested new barbell sets
+Renewed,43,49.99,2,5,1.4,75,88,0,0,0,femal,Downtown,Direct Debit,2022-01-09,nan,Yes,Afternoon,GYM-98898,Prefers morning yoga
+Cancelled,39,49.99,1,3,4.7,108,238,1,3,0,Female,Northside,Cash,2022-01-11,nan,No,Evening,GYM-52837,Requested new barbell sets
+Cancelled,34,79.99,3,2,0.3,118,37,1,3,0,femal,Uptown,Direct Debit,12/01/22,nan,No,Afternoon,GYM-22652,Prefers morning yoga
+Cancelled,18,59.99,2,4,2.3,257,360,2,3,0,F,Downtown,Direct Debit,2022-01-14,nan,No,Night,GYM-23789,Requested new barbell sets
+Renewed,39,59.99,5,7,1.8,19,78,2,1,0,Female,Downtown,Credit Card,2022-01-15,SUMMER50,No,Night,GYM-22755,Requested new barbell sets
+Expired,37,49.99,4,3,2.8,118,344,2,0,0,F,Uptown,Cash,2022-01-17,nan,Yes,Morning,GYM-52608,Requested new barbell sets
+Cancelled,37,49.99,7,4,0.3,136,326,1,0,0,Female,Northside,Direct Debit,18/01/22,SUMMER50,No,Night,GYM-44692,Showers are cold
+Renewed,22,49.99,5,9,5.7,276,345,0,0,0,M,Uptown,Direct Debit,2022-01-19,nan,Yes,Afternoon,GYM-40667,Requested new barbell sets
+Renewed,24,79.99,6,8,1.9,254,251,0,0,0,F,Downtown,Credit Card,2022-01-21,nan,Yes,Afternoon,GYM-78234,Showers are cold
+Renewed,45,59.99,7,9,3.8,263,327,1,0,0,F,Uptown,Credit Card,2022-01-22,nan,Yes,Afternoon,GYM-57929,Requested new barbell sets
+Renewed,34,79.99,6,7,0.6,166,148,0,1,0,M,Uptown,Credit Card,24/01/22,nan,Y,Evening,GYM-68695,Prefers morning yoga
+Renewed,41,49.99,4,7,2.7,164,15,0,1,0,M,Northside,Direct Debit,2022-01-25,nan,No,Morning,GYM-90789,Requested new barbell sets
+Renewed,35,59.99,3,10,3.0,28,366,3,0,0,Male,Northside,Cash,2022-01-27,WINTER20,No,Evening,GYM-89671,Requested new barbell sets
+Renewed,35,,0,6,1.0,34,322,1,2,0,M,Uptown,Credit Card,2022-01-28,nan,No,Afternoon,GYM-68561,Prefers morning yoga
+Cancelled,44,49.99,5,2,1.0,236,320,0,3,0,Female,Northside,Credit Card,30/01/22,nan,No,Evening,GYM-75302,Requested new barbell sets
+Renewed,29,79.99,8,8,2.1,293,268,1,0,0,M,Northside,Cash,2022-01-31,nan,No,Morning,GYM-92191,Requested new barbell sets
+Renewed,35,79.99,2,11,0.2,89,117,0,0,0,M,Downtown,Direct Debit,2022-02-02,nan,No,Morning,GYM-25117,Requested new barbell sets
+Renewed,30,79.99,3,8,2.7,202,191,1,0,0,F,Northside,Direct Debit,2022-02-03,nan,Y,Morning,GYM-94872,Prefers morning yoga
+Renewed,30,59.99,6,11,0.1,227,316,1,1,0,F,Uptown,Cash,05/02/22,WINTER20,No,Morning,GYM-26714,Requested new barbell sets
+Cancelled,31,49.99,1,3,0.4,67,287,3,0,0,femal,Uptown,Credit Card,2022-02-06,nan,No,Afternoon,GYM-48639,Showers are cold
+Renewed,37,49.99,5,10,2.2,130,395,2,0,0,M,Downtown,Cash,2022-02-07,nan,Yes,Night,GYM-62709,Showers are cold
+Renewed,30,79.99,5,6,0.2,110,350,1,1,0,Male,Downtown,Direct Debit,2022-02-09,nan,Y,Afternoon,GYM-20859,Showers are cold
+Cancelled,47,49.99,7,2,7.1,11,296,1,4,0,F,Downtown,Direct Debit,10/02/22,nan,No,Afternoon,GYM-86274,Showers are cold
+Renewed,26,59.99,5,7,4.1,287,193,4,0,0,Female,Uptown,Credit Card,2022-02-12,nan,No,Afternoon,GYM-87199,Prefers morning yoga
+Cancelled,33,59.99,1,6,2.0,174,391,0,3,0,femal,Uptown,Credit Card,2022-02-13,nan,No,Afternoon,GYM-77363,Requested new barbell sets
+Renewed,30,59.99,4,3,3.4,153,280,1,0,0,Female,Northside,Cash,2022-02-15,nan,No,Evening,GYM-20027,Showers are cold
+Renewed,49,79.99,6,11,4.4,42,388,0,0,0,M,Downtown,Direct Debit,16/02/22,nan,Yes,Morning,GYM-99869,Requested new barbell sets
+Expired,36,49.99,1,7,0.6,204,300,1,0,0,M,Northside,Direct Debit,2022-02-18,nan,Yes,Night,GYM-17184,Requested new barbell sets
+Expired,45,49.99,1,6,3.8,171,385,1,0,0,Male,Northside,Cash,2022-02-19,nan,No,Night,GYM-34256,Prefers morning yoga
+Cancelled,20,49.99,2,2,0.4,293,249,2,2,0,M,Uptown,Credit Card,2022-02-21,nan,Yes,Night,GYM-58339,Requested new barbell sets
+Renewed,-5,49.99,6,2,1.1,284,230,0,0,0,femal,Northside,Direct Debit,22/02/22,nan,No,Afternoon,GYM-54896,Showers are cold
+Renewed,43,49.99,4,7,1.6,51,2,2,0,0,m,Downtown,Direct Debit,2022-02-24,nan,No,Morning,GYM-28557,Showers are cold
+Cancelled,35,49.99,5,4,2.5,114,173,1,2,0,m,Downtown,Credit Card,2022-02-25,nan,Yes,Morning,GYM-40517,Prefers morning yoga
+Renewed,45,,8,8,0.1,18,239,2,0,0,M,Uptown,Direct Debit,2022-02-26,nan,Yes,Night,GYM-75665,Showers are cold
+Renewed,29,79.99,5,12,0.7,34,103,1,0,0,femal,Uptown,Credit Card,28/02/22,nan,No,Night,GYM-91552,Showers are cold
+Renewed,49,49.99,6,6,1.9,47,288,0,0,0,m,Uptown,Cash,2022-03-01,nan,No,Afternoon,GYM-65039,Prefers morning yoga
+Renewed,57,49.99,3,13,0.9,232,243,2,0,0,Female,Downtown,Credit Card,2022-03-03,nan,Yes,Night,GYM-77094,Prefers morning yoga
+Expired,31,,3,11,3.0,218,287,0,0,0,femal,Uptown,Credit Card,2022-03-04,nan,No,Afternoon,GYM-85989,Showers are cold
+Renewed,30,49.99,4,12,2.1,109,366,2,0,0,femal,Downtown,Cash,06/03/22,nan,No,Night,GYM-95120,Prefers morning yoga
+Cancelled,49,49.99,4,1,0.5,253,272,0,0,0,M,Northside,Direct Debit,2022-03-07,nan,Yes,Morning,GYM-23835,Prefers morning yoga
+Renewed,50,49.99,5,14,0.3,187,119,1,1,0,Female,Uptown,Direct Debit,2022-03-09,WINTER20,Yes,Morning,GYM-46492,Showers are cold
+Renewed,29,59.99,4,4,2.0,30,337,1,0,0,Female,Uptown,Credit Card,2022-03-10,nan,Yes,Morning,GYM-62685,Showers are cold
+Renewed,30,49.99,5,12,1.2,258,258,0,1,0,m,Uptown,Credit Card,12/03/22,nan,No,Evening,GYM-14693,Prefers morning yoga
+Renewed,32,,3,5,0.4,162,69,2,0,0,Male,Downtown,Cash,2022-03-13,nan,No,Night,GYM-58401,Requested new barbell sets
+Expired,21,49.99,1,6,0.8,70,182,4,0,0,Female,Northside,Cash,2022-03-15,nan,No,Evening,GYM-35190,Requested new barbell sets
+Cancelled,25,59.99,3,0,0.7,55,246,1,2,0,m,Uptown,Direct Debit,2022-03-16,nan,No,Morning,GYM-42605,Showers are cold
+Expired,24,49.99,3,9,0.2,98,117,0,0,0,Male,Northside,Direct Debit,17/03/22,nan,Yes,Night,GYM-31646,Showers are cold
+Cancelled,27,49.99,3,0,1.6,20,30,0,0,0,femal,Uptown,Cash,2022-03-19,nan,Yes,Evening,GYM-55478,Requested new barbell sets
+Cancelled,34,59.99,6,0,2.9,107,148,0,1,0,m,Downtown,Credit Card,2022-03-20,WINTER20,Yes,Morning,GYM-36957,Prefers morning yoga
+Expired,37,59.99,7,8,1.7,52,15,1,0,0,m,Northside,Cash,2022-03-22,nan,Yes,Morning,GYM-91860,Requested new barbell sets
+Renewed,50,59.99,5,11,3.5,5,272,0,0,0,M,Northside,Direct Debit,23/03/22,nan,No,Night,GYM-69296,Requested new barbell sets
+Renewed,25,59.99,4,7,0.3,230,351,1,0,0,femal,Uptown,Credit Card,2022-03-25,nan,No,Night,GYM-99220,Showers are cold
+Renewed,44,79.99,2,10,1.1,81,384,1,1,0,femal,Northside,Cash,2022-03-26,nan,Yes,Afternoon,GYM-49175,Prefers morning yoga
+Renewed,32,79.99,0,7,1.9,216,367,0,1,0,F,Downtown,Direct Debit,2022-03-28,nan,Yes,Night,GYM-47010,Requested new barbell sets
+Renewed,34,,4,16,2.3,46,101,0,0,0,Male,Northside,Credit Card,29/03/22,nan,Yes,Morning,GYM-20251,Prefers morning yoga
+Renewed,41,49.99,3,7,2.4,240,71,0,0,0,m,Northside,Credit Card,2022-03-31,nan,Y,Afternoon,GYM-32343,Showers are cold
+Cancelled,23,49.99,5,3,2.6,177,192,1,2,0,Female,Northside,Credit Card,2022-04-01,SUMMER50,No,Afternoon,GYM-97943,Requested new barbell sets
+Renewed,38,,3,5,2.1,81,321,0,0,0,Female,Northside,Credit Card,2022-04-03,nan,No,Night,GYM-81734,Showers are cold
+Renewed,36,59.99,4,7,0.2,286,110,1,0,0,F,Uptown,Credit Card,04/04/22,nan,Yes,Morning,GYM-56201,Requested new barbell sets
+Renewed,39,,6,11,2.4,191,292,1,0,0,Male,Uptown,Cash,2022-04-05,WINTER20,No,Evening,GYM-85937,Prefers morning yoga
+Renewed,37,49.99,3,8,2.6,142,346,2,0,0,M,Northside,Credit Card,2022-04-07,WINTER20,Yes,Morning,GYM-44385,Showers are cold
+Cancelled,59,79.99,3,1,10.1,278,339,3,1,0,Male,Northside,Cash,2022-04-08,nan,Y,Morning,GYM-48848,Prefers morning yoga
+Renewed,28,79.99,4,6,2.4,40,366,1,1,0,Female,Downtown,Credit Card,10/04/22,nan,No,Night,GYM-11899,Requested new barbell sets
+Expired,29,79.99,5,9,2.3,270,317,0,1,0,Female,Uptown,Direct Debit,2022-04-11,nan,No,Evening,GYM-90674,Showers are cold
+Cancelled,28,49.99,5,5,1.4,86,276,2,3,0,M,Uptown,Credit Card,2022-04-13,nan,No,Afternoon,GYM-23983,Prefers morning yoga
+Renewed,29,59.99,4,5,4.0,2,105,2,0,0,M,Uptown,Cash,2022-04-14,SUMMER50,No,Evening,GYM-32706,Prefers morning yoga
+Renewed,28,49.99,8,8,11.5,210,36,1,1,0,Female,Northside,Direct Debit,16/04/22,nan,Yes,Night,GYM-82911,Requested new barbell sets
+Cancelled,46,49.99,6,2,3.0,0,290,2,1,0,m,Uptown,Direct Debit,2022-04-17,nan,Yes,Morning,GYM-30357,Showers are cold
+Cancelled,49,,4,3,1.9,74,180,2,1,0,m,Downtown,Cash,2022-04-19,nan,No,Morning,GYM-37528,Prefers morning yoga
+Cancelled,29,49.99,3,3,0.2,230,142,0,2,0,M,Downtown,Direct Debit,2022-04-20,nan,Yes,Evening,GYM-39223,Showers are cold
+Cancelled,26,49.99,3,1,2.6,75,113,2,3,0,femal,Downtown,Cash,22/04/22,SUMMER50,Yes,Evening,GYM-59877,Showers are cold
+Renewed,39,79.99,4,6,2.5,259,237,1,0,0,m,Downtown,Credit Card,2022-04-23,nan,No,Night,GYM-54487,Showers are cold
+Renewed,29,49.99,4,9,3.0,24,93,0,1,0,M,Downtown,Credit Card,2022-04-24,nan,Y,Evening,GYM-18031,Showers are cold
+Renewed,41,59.99,3,8,0.3,199,259,1,0,0,Male,Uptown,Cash,2022-04-26,nan,Y,Night,GYM-35753,Requested new barbell sets
+Cancelled,37,59.99,4,1,2.1,93,106,0,3,0,Male,Northside,Credit Card,27/04/22,nan,Yes,Afternoon,GYM-87137,Prefers morning yoga
+Cancelled,19,49.99,3,3,0.7,107,243,0,2,0,Male,Northside,Direct Debit,2022-04-29,nan,Yes,Evening,GYM-94260,Showers are cold
+Renewed,50,49.99,5,13,2.9,94,334,0,0,0,M,Northside,Credit Card,2022-04-30,WINTER20,No,Morning,GYM-20675,Prefers morning yoga
+Renewed,52,49.99,2,7,0.5,90,22,0,0,0,M,Northside,Credit Card,2022-05-02,nan,No,Evening,GYM-49307,Prefers morning yoga
+Renewed,28,59.99,6,6,2.3,43,360,1,0,1,m,Uptown,Direct Debit,03/05/22,nan,Y,Morning,GYM-55221,Prefers morning yoga
+Renewed,31,49.99,5,11,0.7,22,270,2,0,0,m,Uptown,Direct Debit,2022-05-05,nan,No,Afternoon,GYM-38099,Requested new barbell sets
+Cancelled,37,49.99,1,2,0.0,189,139,1,4,0,m,Uptown,Credit Card,2022-05-06,nan,No,Afternoon,GYM-99020,Showers are cold
+Cancelled,38,49.99,5,0,2.0,22,383,1,2,0,F,Downtown,Credit Card,2022-05-08,nan,Yes,Evening,GYM-60711,Showers are cold
+Cancelled,41,,4,1,0.2,233,81,2,2,0,M,Northside,Credit Card,09/05/22,WINTER20,Yes,Night,GYM-59101,Prefers morning yoga
+Renewed,55,79.99,0,13,2.2,185,376,1,1,0,femal,Uptown,Cash,2022-05-11,nan,Yes,Morning,GYM-26784,Prefers morning yoga
+Renewed,33,49.99,5,7,5.2,62,343,0,0,0,Male,Uptown,Cash,2022-05-12,nan,No,Afternoon,GYM-46978,Requested new barbell sets
+Cancelled,27,59.99,4,1,7.0,102,155,2,2,0,Male,Uptown,Credit Card,2022-05-13,nan,Yes,Evening,GYM-39022,Requested new barbell sets
+Cancelled,21,59.99,6,3,0.5,188,334,2,1,0,F,Northside,Credit Card,15/05/22,nan,No,Afternoon,GYM-95251,Prefers morning yoga
+Cancelled,27,79.99,1,0,3.3,188,18,1,1,0,F,Northside,Direct Debit,2022-05-16,nan,No,Evening,GYM-47739,Showers are cold
+Cancelled,34,,2,1,0.9,68,68,1,2,0,Male,Downtown,Credit Card,2022-05-18,nan,Yes,Morning,GYM-93169,Requested new barbell sets
+Renewed,52,59.99,2,11,4.6,113,131,0,0,0,M,Downtown,Credit Card,2022-05-19,nan,Y,Evening,GYM-14226,Showers are cold
+Renewed,29,59.99,3,11,3.1,103,255,1,0,0,Male,Downtown,Cash,21/05/22,nan,No,Morning,GYM-32791,Requested new barbell sets
+Renewed,37,79.99,3,8,0.2,107,208,0,1,0,Male,Northside,Cash,2022-05-22,nan,Y,Afternoon,GYM-97563,Showers are cold
+Renewed,34,,1,5,1.0,20,9,2,0,0,femal,Downtown,Cash,2022-05-24,nan,Y,Morning,GYM-98897,Prefers morning yoga
+Renewed,46,49.99,3,9,0.8,265,139,0,0,0,F,Downtown,Direct Debit,2022-05-25,nan,Yes,Morning,GYM-53478,Requested new barbell sets
+Renewed,60,49.99,3,12,3.1,208,134,2,0,0,F,Uptown,Credit Card,27/05/22,nan,Yes,Night,GYM-67504,Prefers morning yoga
+Cancelled,29,79.99,3,2,1.1,169,254,2,3,0,m,Northside,Cash,2022-05-28,nan,Yes,Afternoon,GYM-51073,Requested new barbell sets
+Renewed,30,79.99,2,4,2.3,193,299,0,0,0,F,Downtown,Direct Debit,2022-05-30,nan,No,Morning,GYM-16161,Prefers morning yoga
+Renewed,45,49.99,3,6,1.8,122,257,1,0,0,femal,Downtown,Credit Card,2022-05-31,SUMMER50,No,Night,GYM-48229,Requested new barbell sets
+Expired,41,59.99,6,11,7.4,176,93,0,1,0,femal,Northside,Credit Card,01/06/22,nan,Y,Night,GYM-85213,Requested new barbell sets
+Renewed,53,49.99,2,9,5.6,3,371,0,0,0,Male,Downtown,Direct Debit,2022-06-03,nan,Yes,Morning,GYM-11628,Requested new barbell sets
+Renewed,40,49.99,4,10,1.1,187,240,1,1,0,femal,Northside,Credit Card,2022-06-04,nan,No,Evening,GYM-83516,Showers are cold
+Cancelled,31,79.99,4,3,2.6,28,236,1,4,0,m,Northside,Direct Debit,2022-06-06,nan,Y,Morning,GYM-41374,Showers are cold
+Renewed,40,49.99,3,4,3.5,85,164,1,1,0,Male,Northside,Direct Debit,07/06/22,nan,No,Evening,GYM-56892,Requested new barbell sets
+Renewed,46,49.99,4,5,4.6,46,324,0,0,0,M,Downtown,Cash,2022-06-09,WINTER20,Yes,Morning,GYM-87411,Prefers morning yoga
+Renewed,43,,3,8,0.1,76,147,2,0,0,M,Downtown,Direct Debit,2022-06-10,nan,No,Afternoon,GYM-32980,Prefers morning yoga
+Renewed,40,59.99,3,12,0.7,190,217,1,1,0,F,Downtown,Cash,2022-06-12,WINTER20,Yes,Night,GYM-94418,Requested new barbell sets
+Expired,45,49.99,6,6,0.8,30,107,1,0,0,m,Northside,Credit Card,13/06/22,nan,Yes,Morning,GYM-44763,Showers are cold
+Cancelled,46,59.99,7,1,1.1,168,230,2,1,0,femal,Downtown,Cash,2022-06-15,SUMMER50,Yes,Morning,GYM-20301,Showers are cold
+Cancelled,48,59.99,6,0,0.4,35,69,0,1,0,Female,Uptown,Direct Debit,2022-06-16,nan,Yes,Morning,GYM-76131,Showers are cold
+Cancelled,41,49.99,2,3,1.4,244,220,0,2,0,M,Northside,Cash,2022-06-18,nan,No,Evening,GYM-92859,Showers are cold
+Cancelled,33,49.99,1,3,2.2,187,73,0,5,0,femal,Downtown,Credit Card,19/06/22,nan,Yes,Afternoon,GYM-60451,Prefers morning yoga
+Renewed,36,59.99,5,7,1.4,14,178,3,0,0,M,Northside,Cash,2022-06-20,nan,No,Afternoon,GYM-31798,Requested new barbell sets
+Cancelled,47,49.99,2,1,2.2,215,79,0,2,0,M,Downtown,Credit Card,2022-06-22,WINTER20,Yes,Morning,GYM-68496,Requested new barbell sets
+Renewed,26,,5,6,0.1,157,353,2,0,0,M,Northside,Direct Debit,2022-06-23,nan,Yes,Night,GYM-71803,Requested new barbell sets
+Cancelled,38,79.99,3,1,4.2,154,158,1,1,0,F,Uptown,Cash,25/06/22,nan,Yes,Night,GYM-19589,Prefers morning yoga
+Cancelled,31,79.99,5,6,5.6,240,355,0,3,0,m,Northside,Credit Card,2022-06-26,nan,Yes,Morning,GYM-90633,Showers are cold
+Renewed,35,49.99,5,5,1.9,295,168,2,0,0,M,Northside,Credit Card,2022-06-28,SUMMER50,Yes,Evening,GYM-58222,Showers are cold
+Renewed,47,79.99,5,6,4.3,44,313,0,0,0,femal,Northside,Cash,2022-06-29,nan,No,Night,GYM-16381,Prefers morning yoga
+Renewed,36,,6,10,0.3,174,388,0,0,0,femal,Downtown,Cash,01/07/22,nan,Y,Afternoon,GYM-66615,Prefers morning yoga
+Renewed,35,49.99,6,3,3.2,55,160,0,0,0,F,Northside,Cash,2022-07-02,nan,Yes,Night,GYM-40588,Requested new barbell sets
+Cancelled,21,49.99,5,1,0.3,53,31,0,3,0,m,Downtown,Cash,2022-07-04,nan,Yes,Night,GYM-78453,Requested new barbell sets
+Cancelled,42,49.99,5,2,1.0,264,120,1,1,0,m,Northside,Cash,2022-07-05,nan,Yes,Morning,GYM-37115,Prefers morning yoga
+Renewed,41,59.99,2,14,0.8,238,214,1,0,0,Female,Downtown,Credit Card,07/07/22,nan,No,Night,GYM-14353,Prefers morning yoga
+Renewed,56,49.99,4,8,1.8,107,2,2,0,0,Male,Downtown,Direct Debit,2022-07-08,nan,No,Morning,GYM-86162,Prefers morning yoga
+Renewed,-5,,4,7,0.7,197,384,0,0,0,M,Downtown,Credit Card,2022-07-09,nan,No,Afternoon,GYM-79901,Showers are cold
+Renewed,37,59.99,2,7,2.0,213,227,0,2,0,F,Downtown,Cash,2022-07-11,nan,Yes,Night,GYM-36576,Requested new barbell sets
+Renewed,37,49.99,3,11,0.9,245,47,0,0,0,m,Northside,Cash,12/07/22,WINTER20,Yes,Morning,GYM-95038,Prefers morning yoga
+Renewed,50,59.99,3,8,3.9,37,166,0,0,0,Female,Northside,Direct Debit,2022-07-14,nan,Yes,Morning,GYM-33133,Prefers morning yoga
+Expired,34,49.99,4,2,2.0,172,388,0,0,0,Male,Downtown,Cash,2022-07-15,nan,No,Afternoon,GYM-53701,Showers are cold
+Renewed,37,79.99,4,14,0.5,104,332,0,0,0,m,Downtown,Direct Debit,2022-07-17,nan,Yes,Night,GYM-84681,Prefers morning yoga
+Renewed,41,79.99,2,9,0.8,39,10,2,0,0,m,Downtown,Cash,18/07/22,nan,No,Evening,GYM-52546,Requested new barbell sets
+Cancelled,36,49.99,6,2,3.8,129,237,1,3,0,M,Uptown,Credit Card,2022-07-20,nan,No,Night,GYM-93661,Showers are cold
+Renewed,30,49.99,4,11,1.0,180,277,3,0,0,Male,Uptown,Direct Debit,2022-07-21,nan,No,Morning,GYM-58943,Prefers morning yoga
+Expired,36,49.99,4,7,1.5,193,240,0,0,0,Male,Northside,Credit Card,2022-07-23,nan,Yes,Morning,GYM-77994,Requested new barbell sets
+Expired,45,79.99,4,6,2.1,288,191,0,0,0,F,Uptown,Cash,24/07/22,nan,No,Afternoon,GYM-37468,Requested new barbell sets
+Renewed,24,49.99,6,9,0.9,58,11,2,0,0,Female,Uptown,Credit Card,2022-07-26,SUMMER50,Yes,Afternoon,GYM-73612,Showers are cold
+Renewed,36,49.99,5,9,0.7,25,52,2,1,0,femal,Downtown,Credit Card,2022-07-27,nan,Y,Evening,GYM-49123,Requested new barbell sets
+Renewed,27,49.99,3,7,1.3,102,54,1,0,0,F,Downtown,Credit Card,2022-07-28,nan,Yes,Evening,GYM-82599,Showers are cold
+Renewed,46,49.99,5,5,0.5,20,308,1,1,0,Female,Uptown,Direct Debit,30/07/22,nan,Yes,Morning,GYM-16003,Requested new barbell sets
+Renewed,19,49.99,5,6,0.7,79,20,0,0,0,F,Uptown,Direct Debit,2022-07-31,nan,Yes,Evening,GYM-21024,Prefers morning yoga
+Cancelled,29,79.99,5,1,0.1,198,18,0,0,0,Female,Uptown,Direct Debit,2022-08-02,nan,No,Evening,GYM-27173,Showers are cold
+Renewed,38,49.99,4,13,0.7,36,343,2,1,0,femal,Downtown,Credit Card,2022-08-03,nan,Yes,Evening,GYM-16458,Requested new barbell sets
+Renewed,50,49.99,6,7,0.8,13,349,3,0,0,M,Northside,Credit Card,05/08/22,nan,No,Night,GYM-71194,Showers are cold
+Renewed,34,79.99,2,8,6.5,220,321,2,0,0,Female,Uptown,Cash,2022-08-06,nan,Yes,Night,GYM-93241,Requested new barbell sets
+Expired,29,79.99,9,2,1.8,165,314,0,1,0,femal,Northside,Direct Debit,2022-08-08,nan,Yes,Morning,GYM-63621,Showers are cold
+Renewed,53,49.99,2,8,3.1,172,58,1,0,0,F,Northside,Cash,2022-08-09,nan,No,Night,GYM-74213,Prefers morning yoga
+Renewed,20,49.99,2,4,0.1,149,150,0,3,0,Male,Uptown,Credit Card,11/08/22,nan,Yes,Evening,GYM-12109,Showers are cold
+Renewed,13,49.99,2,10,0.2,171,258,1,1,0,m,Northside,Direct Debit,2022-08-12,nan,No,Evening,GYM-23365,Showers are cold
+Expired,39,79.99,3,11,3.4,80,371,0,0,0,femal,Downtown,Cash,2022-08-14,SUMMER50,No,Evening,GYM-61537,Prefers morning yoga
+Renewed,29,49.99,6,7,2.0,224,57,1,0,0,femal,Uptown,Credit Card,2022-08-15,nan,No,Night,GYM-90748,Requested new barbell sets
+Cancelled,24,,2,3,0.4,34,215,2,2,0,femal,Uptown,Credit Card,16/08/22,nan,Yes,Afternoon,GYM-39145,Prefers morning yoga
+Cancelled,42,59.99,4,1,1.0,187,61,1,1,0,Female,Uptown,Credit Card,2022-08-18,nan,No,Evening,GYM-87935,Showers are cold
+Renewed,37,59.99,3,11,1.5,223,145,0,0,0,Female,Uptown,Direct Debit,2022-08-19,nan,Y,Evening,GYM-80621,Prefers morning yoga
+Cancelled,29,49.99,9,1,3.7,130,381,2,3,0,Male,Downtown,Direct Debit,2022-08-21,nan,No,Afternoon,GYM-33820,Prefers morning yoga
+Renewed,22,49.99,4,7,0.1,8,238,1,0,0,M,Downtown,Cash,22/08/22,nan,Yes,Afternoon,GYM-90195,Showers are cold
+Cancelled,43,,0,4,1.8,68,292,1,2,0,F,Northside,Credit Card,2022-08-24,WINTER20,No,Morning,GYM-43386,Showers are cold
+Cancelled,41,49.99,4,3,2.5,27,181,1,3,0,M,Uptown,Direct Debit,2022-08-25,nan,Y,Morning,GYM-31274,Prefers morning yoga
+Renewed,34,59.99,4,10,7.6,233,368,3,0,0,Female,Uptown,Direct Debit,2022-08-27,WINTER20,No,Night,GYM-19074,Showers are cold
+Renewed,53,79.99,3,11,3.3,30,94,0,0,0,Female,Northside,Credit Card,28/08/22,nan,No,Afternoon,GYM-77239,Requested new barbell sets
+Cancelled,24,59.99,3,3,0.6,231,77,0,1,0,femal,Downtown,Credit Card,2022-08-30,nan,No,Morning,GYM-20987,Requested new barbell sets
+Renewed,19,59.99,1,9,2.5,53,141,0,0,0,femal,Uptown,Cash,2022-08-31,nan,Yes,Evening,GYM-39780,Requested new barbell sets
+Renewed,28,49.99,6,3,2.9,174,104,1,0,0,M,Northside,Cash,2022-09-02,nan,Yes,Morning,GYM-61571,Requested new barbell sets
+Renewed,34,49.99,8,7,2.6,297,260,3,1,0,F,Downtown,Cash,03/09/22,WINTER20,Yes,Evening,GYM-72538,Prefers morning yoga
+Cancelled,37,49.99,3,1,3.4,278,94,2,3,0,Female,Northside,Direct Debit,2022-09-04,nan,Yes,Evening,GYM-98291,Prefers morning yoga
+Cancelled,32,59.99,2,3,4.7,85,222,1,1,0,Female,Northside,Direct Debit,2022-09-06,nan,No,Evening,GYM-74082,Prefers morning yoga
+Renewed,38,79.99,6,7,0.2,64,189,4,1,0,M,Downtown,Direct Debit,2022-09-07,nan,No,Night,GYM-20227,Showers are cold
+Renewed,22,59.99,2,6,0.2,88,128,0,0,0,m,Uptown,Direct Debit,09/09/22,nan,No,Afternoon,GYM-48926,Prefers morning yoga
+Renewed,49,49.99,6,11,3.2,53,318,0,0,0,femal,Downtown,Direct Debit,2022-09-10,nan,No,Night,GYM-17148,Prefers morning yoga
+Cancelled,34,49.99,3,1,0.6,117,194,0,3,0,Male,Uptown,Credit Card,2022-09-12,nan,Yes,Morning,GYM-45628,Showers are cold
+Renewed,46,59.99,3,12,0.1,228,19,0,0,0,Female,Downtown,Cash,2022-09-13,SUMMER50,Yes,Morning,GYM-40900,Showers are cold
+Cancelled,38,49.99,1,2,1.0,266,298,1,2,0,F,Uptown,Cash,15/09/22,nan,Y,Afternoon,GYM-21771,Showers are cold
+Renewed,39,79.99,3,8,3.4,21,239,2,1,0,m,Uptown,Cash,2022-09-16,WINTER20,No,Afternoon,GYM-77921,Requested new barbell sets
+Expired,40,79.99,4,8,0.3,246,234,1,1,0,M,Northside,Cash,2022-09-18,SUMMER50,No,Morning,GYM-76461,Prefers morning yoga
+Renewed,39,59.99,4,4,2.2,19,84,1,1,0,M,Northside,Credit Card,2022-09-19,WINTER20,Y,Afternoon,GYM-48989,Prefers morning yoga
+Renewed,41,,3,11,0.0,183,93,0,0,0,F,Uptown,Direct Debit,21/09/22,nan,Yes,Afternoon,GYM-42996,Prefers morning yoga
+Renewed,48,49.99,2,7,0.2,49,41,1,0,0,femal,Downtown,Direct Debit,2022-09-22,nan,No,Evening,GYM-60920,Showers are cold
+Expired,36,49.99,8,8,0.9,89,363,2,0,0,femal,Uptown,Direct Debit,2022-09-23,nan,No,Night,GYM-90925,Prefers morning yoga
+Cancelled,42,49.99,3,3,0.2,103,349,0,1,0,m,Downtown,Cash,2022-09-25,nan,Yes,Night,GYM-36997,Requested new barbell sets
+Renewed,34,49.99,4,3,3.7,193,73,2,0,0,F,Uptown,Cash,26/09/22,nan,Yes,Night,GYM-39488,Prefers morning yoga
+Cancelled,49,59.99,4,1,4.0,73,364,0,2,0,Female,Downtown,Credit Card,2022-09-28,nan,Y,Evening,GYM-32975,Prefers morning yoga
+Cancelled,28,59.99,7,2,2.8,268,114,0,2,0,m,Northside,Credit Card,2022-09-29,nan,No,Evening,GYM-47310,Showers are cold
+Cancelled,53,49.99,4,3,0.6,14,189,0,1,0,Male,Downtown,Direct Debit,2022-10-01,nan,Yes,Afternoon,GYM-82111,Requested new barbell sets
+Renewed,34,49.99,2,10,1.5,282,124,0,0,0,Male,Northside,Direct Debit,02/10/22,WINTER20,No,Afternoon,GYM-74254,Prefers morning yoga
+Renewed,20,49.99,2,9,0.4,197,5,1,0,0,F,Downtown,Direct Debit,2022-10-04,nan,No,Evening,GYM-35809,Showers are cold
+Renewed,36,49.99,3,8,0.7,194,378,0,0,0,Male,Northside,Direct Debit,2022-10-05,nan,No,Evening,GYM-53995,Requested new barbell sets
+Cancelled,28,79.99,4,0,1.5,35,41,0,2,0,F,Downtown,Direct Debit,2022-10-07,nan,Y,Morning,GYM-78132,Requested new barbell sets
+Expired,43,49.99,5,7,2.7,204,57,1,0,0,Female,Uptown,Direct Debit,08/10/22,nan,Y,Evening,GYM-82757,Showers are cold
+Cancelled,28,49.99,6,3,0.2,138,9,2,1,0,femal,Downtown,Cash,2022-10-10,WINTER20,Y,Evening,GYM-67812,Showers are cold
+Renewed,30,49.99,6,10,0.7,263,88,0,1,0,Female,Northside,Credit Card,2022-10-11,nan,Yes,Night,GYM-69760,Showers are cold
+Renewed,16,79.99,6,12,5.2,56,333,0,0,0,F,Northside,Credit Card,2022-10-12,nan,No,Morning,GYM-27507,Showers are cold
+Cancelled,30,59.99,2,3,1.1,109,110,2,3,0,Female,Downtown,Cash,14/10/22,nan,Yes,Night,GYM-44388,Showers are cold
+Cancelled,10,49.99,2,4,5.6,173,38,2,4,0,Male,Uptown,Direct Debit,2022-10-15,nan,Yes,Night,GYM-70375,Showers are cold
+Cancelled,19,59.99,5,1,9.5,205,396,2,2,0,Female,Downtown,Direct Debit,2022-10-17,nan,No,Morning,GYM-72164,Prefers morning yoga
+Cancelled,42,59.99,4,4,1.5,224,166,1,2,0,Male,Downtown,Direct Debit,2022-10-18,SUMMER50,No,Morning,GYM-95894,Showers are cold
+Cancelled,42,79.99,3,0,0.7,63,10,0,0,0,femal,Northside,Credit Card,20/10/22,nan,Y,Morning,GYM-67095,Showers are cold
+Renewed,39,49.99,3,8,3.1,251,109,1,0,0,femal,Uptown,Credit Card,2022-10-21,SUMMER50,Yes,Afternoon,GYM-62181,Requested new barbell sets
+Renewed,25,79.99,5,6,0.3,266,15,0,0,0,Male,Uptown,Direct Debit,2022-10-23,SUMMER50,No,Morning,GYM-90469,Requested new barbell sets
+Cancelled,34,79.99,1,3,0.6,92,32,0,3,0,M,Uptown,Direct Debit,2022-10-24,WINTER20,Yes,Night,GYM-56654,Requested new barbell sets
+Cancelled,34,79.99,3,3,3.1,182,232,0,3,0,Female,Uptown,Cash,26/10/22,nan,Yes,Morning,GYM-86189,Showers are cold
+Renewed,23,59.99,7,7,1.1,299,187,0,0,0,Female,Downtown,Direct Debit,2022-10-27,nan,No,Afternoon,GYM-25300,Showers are cold
+Renewed,50,,5,6,0.5,213,223,1,0,0,F,Uptown,Cash,2022-10-29,nan,Yes,Night,GYM-39232,Prefers morning yoga
+Cancelled,43,49.99,6,3,2.1,141,58,0,1,0,F,Uptown,Direct Debit,2022-10-30,nan,No,Morning,GYM-19848,Prefers morning yoga
+Renewed,32,59.99,5,13,2.6,82,50,1,0,0,m,Uptown,Direct Debit,31/10/22,nan,Y,Morning,GYM-78646,Prefers morning yoga
+Renewed,35,,4,5,0.3,98,270,1,1,0,Male,Northside,Direct Debit,2022-11-02,WINTER20,No,Night,GYM-95349,Prefers morning yoga
+Renewed,37,59.99,4,2,0.6,280,42,0,0,0,femal,Northside,Cash,2022-11-03,nan,Yes,Night,GYM-72217,Showers are cold
+Cancelled,14,49.99,4,3,0.5,101,26,0,0,0,femal,Northside,Cash,2022-11-05,nan,Yes,Morning,GYM-17176,Requested new barbell sets
+Cancelled,32,59.99,5,2,1.0,70,55,2,3,0,M,Uptown,Cash,06/11/22,nan,No,Afternoon,GYM-83915,Showers are cold
+Renewed,28,79.99,3,9,2.9,265,120,0,0,0,Male,Downtown,Credit Card,2022-11-08,nan,No,Night,GYM-55663,Showers are cold
+Cancelled,24,49.99,5,1,2.5,129,112,0,2,0,Female,Downtown,Credit Card,2022-11-09,nan,No,Evening,GYM-16788,Showers are cold
+Renewed,32,79.99,5,9,2.2,59,315,0,1,0,m,Northside,Direct Debit,2022-11-11,nan,Yes,Morning,GYM-72114,Showers are cold
+Renewed,52,59.99,0,5,0.0,118,114,2,0,0,Male,Northside,Cash,12/11/22,nan,No,Night,GYM-16282,Requested new barbell sets
+Cancelled,41,79.99,5,4,0.3,262,108,0,1,0,m,Uptown,Cash,2022-11-14,nan,Yes,Night,GYM-15375,Requested new barbell sets
+Cancelled,29,,2,3,0.5,20,174,1,2,0,Male,Northside,Direct Debit,2022-11-15,nan,No,Morning,GYM-42403,Prefers morning yoga
+Cancelled,40,49.99,6,4,0.6,96,111,0,0,0,Female,Northside,Direct Debit,2022-11-17,nan,No,Morning,GYM-28610,Showers are cold
+Cancelled,48,79.99,4,4,0.3,0,99,1,0,0,Female,Northside,Direct Debit,18/11/22,nan,Yes,Morning,GYM-11340,Prefers morning yoga
+Cancelled,44,49.99,3,4,1.1,202,7,2,5,0,Male,Northside,Direct Debit,2022-11-19,nan,No,Afternoon,GYM-51638,Requested new barbell sets
+Renewed,35,79.99,5,6,0.2,127,134,1,1,0,femal,Downtown,Cash,2022-11-21,nan,No,Evening,GYM-83519,Requested new barbell sets
+Renewed,28,49.99,7,13,2.8,131,250,0,3,0,femal,Uptown,Credit Card,2022-11-22,nan,No,Night,GYM-58411,Prefers morning yoga
+Renewed,41,59.99,4,8,3.1,33,336,1,0,0,M,Downtown,Cash,24/11/22,nan,No,Morning,GYM-42088,Requested new barbell sets
+Renewed,38,49.99,2,6,1.7,86,239,0,0,0,Female,Northside,Credit Card,2022-11-25,nan,Y,Morning,GYM-37360,Requested new barbell sets
+Expired,43,59.99,5,7,0.2,31,221,2,0,0,F,Uptown,Direct Debit,2022-11-27,nan,No,Afternoon,GYM-84063,Showers are cold
+Renewed,41,49.99,3,5,4.4,258,385,3,0,0,M,Uptown,Credit Card,2022-11-28,nan,Yes,Evening,GYM-72294,Showers are cold
+Cancelled,45,49.99,0,0,6.7,32,144,1,1,0,Male,Downtown,Cash,30/11/22,nan,Yes,Night,GYM-56661,Requested new barbell sets
+Cancelled,29,49.99,3,1,0.5,285,376,2,4,0,M,Downtown,Cash,2022-12-01,nan,Yes,Evening,GYM-84090,Requested new barbell sets
+Cancelled,48,49.99,9,2,2.4,48,3,0,2,0,F,Northside,Cash,2022-12-03,SUMMER50,Yes,Evening,GYM-81869,Prefers morning yoga
+Renewed,36,79.99,4,5,3.7,285,281,2,0,0,Female,Downtown,Cash,2022-12-04,WINTER20,Y,Morning,GYM-28405,Prefers morning yoga
+Cancelled,55,79.99,5,1,1.6,81,333,1,1,0,Female,Northside,Cash,06/12/22,nan,No,Morning,GYM-56185,Requested new barbell sets
+Renewed,28,49.99,4,6,0.8,143,327,0,0,0,femal,Northside,Cash,2022-12-07,nan,No,Morning,GYM-78105,Showers are cold
+Renewed,52,59.99,2,10,1.3,279,196,0,1,0,Female,Northside,Direct Debit,2022-12-08,nan,Yes,Afternoon,GYM-99301,Showers are cold
+Cancelled,36,49.99,3,2,1.4,91,388,1,3,0,femal,Uptown,Credit Card,2022-12-10,nan,No,Afternoon,GYM-57620,Prefers morning yoga
+Renewed,28,59.99,4,7,1.0,223,127,0,0,0,F,Uptown,Direct Debit,11/12/22,nan,Y,Afternoon,GYM-21578,Showers are cold
+Renewed,30,79.99,5,11,5.3,216,260,0,0,0,M,Downtown,Credit Card,2022-12-13,WINTER20,Yes,Morning,GYM-68248,Showers are cold
+Cancelled,31,79.99,4,1,2.7,155,90,1,2,0,Male,Downtown,Credit Card,2022-12-14,nan,No,Morning,GYM-58880,Prefers morning yoga
+Renewed,39,49.99,5,7,0.6,276,324,2,0,0,Male,Uptown,Credit Card,2022-12-16,nan,Y,Morning,GYM-40202,Prefers morning yoga
+Expired,40,59.99,4,10,1.8,7,258,1,1,0,M,Downtown,Cash,17/12/22,nan,Y,Evening,GYM-89963,Showers are cold
+Expired,29,49.99,4,8,2.3,35,93,1,1,0,Female,Northside,Cash,2022-12-19,SUMMER50,No,Afternoon,GYM-34381,Prefers morning yoga
+Expired,34,,5,3,0.3,123,256,1,0,0,femal,Northside,Cash,2022-12-20,nan,No,Afternoon,GYM-73320,Requested new barbell sets
+Renewed,56,49.99,5,7,0.9,8,135,0,0,0,Male,Uptown,Credit Card,2022-12-22,nan,No,Evening,GYM-47226,Prefers morning yoga
+Renewed,52,59.99,3,6,4.7,39,12,1,0,0,Female,Downtown,Credit Card,23/12/22,nan,Yes,Night,GYM-94005,Requested new barbell sets
+Expired,39,59.99,3,8,1.7,178,197,1,0,0,m,Downtown,Credit Card,2022-12-25,nan,No,Evening,GYM-29095,Requested new barbell sets
+Renewed,35,59.99,2,9,0.5,128,177,1,0,0,m,Uptown,Direct Debit,2022-12-26,nan,Y,Evening,GYM-49615,Requested new barbell sets
+Expired,36,49.99,1,10,0.3,67,111,0,0,0,Male,Northside,Cash,2022-12-27,nan,No,Morning,GYM-62856,Prefers morning yoga
+Expired,41,79.99,6,12,1.5,153,263,2,0,0,M,Northside,Cash,29/12/22,nan,Yes,Night,GYM-41210,Prefers morning yoga
+Cancelled,24,49.99,3,0,1.6,2,368,1,1,0,M,Downtown,Cash,2022-12-30,WINTER20,No,Evening,GYM-15802,Prefers morning yoga
+Renewed,32,59.99,3,7,0.8,264,78,0,0,0,M,Uptown,Direct Debit,2023-01-01,nan,No,Night,GYM-21841,Requested new barbell sets
+Renewed,18,49.99,3,7,2.0,3,377,1,0,0,Female,Uptown,Direct Debit,2023-01-02,nan,Yes,Night,GYM-90705,Prefers morning yoga
+Cancelled,38,49.99,5,1,0.1,261,255,0,3,0,m,Northside,Direct Debit,04/01/23,WINTER20,No,Morning,GYM-74660,Showers are cold
+Renewed,41,59.99,4,8,0.3,281,73,2,0,0,Female,Northside,Credit Card,2023-01-05,nan,No,Night,GYM-28921,Showers are cold
+Renewed,30,49.99,6,13,1.6,84,382,1,0,0,F,Downtown,Direct Debit,2023-01-07,WINTER20,No,Morning,GYM-57505,Prefers morning yoga
+Cancelled,50,49.99,3,1,0.1,34,160,1,1,0,F,Uptown,Credit Card,2023-01-08,SUMMER50,Yes,Afternoon,GYM-16745,Requested new barbell sets
+Expired,22,49.99,1,7,4.3,113,200,1,0,0,Male,Downtown,Credit Card,10/01/23,nan,Yes,Evening,GYM-41443,Prefers morning yoga
+Cancelled,20,49.99,3,4,0.3,58,368,2,1,0,F,Downtown,Cash,2023-01-11,nan,No,Morning,GYM-25016,Showers are cold
+Cancelled,37,59.99,7,1,2.2,37,307,1,2,0,M,Uptown,Cash,2023-01-13,nan,No,Morning,GYM-88755,Requested new barbell sets
+Renewed,45,79.99,5,11,1.0,32,376,0,1,0,Male,Uptown,Direct Debit,2023-01-14,nan,Yes,Evening,GYM-39012,Prefers morning yoga
+Cancelled,51,49.99,4,4,1.0,202,32,1,1,0,m,Northside,Credit Card,15/01/23,WINTER20,Yes,Morning,GYM-97617,Prefers morning yoga
+Expired,30,49.99,6,6,2.9,201,72,1,0,0,femal,Uptown,Credit Card,2023-01-17,WINTER20,Yes,Night,GYM-75837,Requested new barbell sets
+Renewed,45,49.99,6,8,1.4,99,351,2,0,0,m,Downtown,Credit Card,2023-01-18,nan,No,Morning,GYM-28549,Requested new barbell sets
+Renewed,34,49.99,2,4,2.6,117,292,1,0,0,F,Downtown,Cash,2023-01-20,nan,Y,Morning,GYM-87974,Showers are cold
+Cancelled,33,59.99,3,2,1.4,242,197,0,4,0,F,Uptown,Cash,21/01/23,nan,No,Night,GYM-80822,Prefers morning yoga
+Cancelled,43,59.99,6,1,1.8,28,324,1,1,0,m,Downtown,Cash,2023-01-23,nan,No,Evening,GYM-45422,Showers are cold
+Cancelled,41,49.99,4,3,2.9,226,387,0,2,0,F,Uptown,Cash,2023-01-24,nan,No,Morning,GYM-31251,Showers are cold
+Cancelled,19,49.99,1,4,1.9,212,315,1,3,0,F,Northside,Cash,2023-01-26,nan,No,Afternoon,GYM-40466,Requested new barbell sets
+Renewed,49,49.99,2,14,1.9,186,239,0,0,0,Female,Northside,Cash,27/01/23,nan,Yes,Evening,GYM-47860,Prefers morning yoga
+Renewed,48,,5,5,3.1,112,73,1,0,0,femal,Uptown,Direct Debit,2023-01-29,nan,No,Afternoon,GYM-16580,Showers are cold
+Cancelled,28,79.99,3,0,6.0,298,30,1,0,0,femal,Downtown,Direct Debit,2023-01-30,nan,No,Afternoon,GYM-92551,Showers are cold
+Cancelled,999,49.99,5,1,0.9,160,13,1,0,0,m,Uptown,Direct Debit,2023-02-01,nan,No,Afternoon,GYM-58201,Requested new barbell sets
+Cancelled,39,49.99,4,4,1.7,18,204,1,0,0,m,Uptown,Direct Debit,02/02/23,nan,No,Morning,GYM-67705,Prefers morning yoga
+Expired,37,79.99,5,6,0.2,263,315,1,0,0,F,Northside,Credit Card,2023-02-03,nan,Yes,Night,GYM-87919,Prefers morning yoga
+Renewed,29,79.99,5,8,0.9,158,67,3,0,0,M,Uptown,Cash,2023-02-05,nan,Yes,Morning,GYM-25536,Showers are cold
+Renewed,28,49.99,3,8,1.1,10,127,2,0,0,Female,Northside,Cash,2023-02-06,nan,No,Afternoon,GYM-90692,Requested new barbell sets
+Cancelled,34,49.99,6,5,3.6,7,25,0,0,0,M,Northside,Direct Debit,08/02/23,nan,Yes,Afternoon,GYM-79936,Prefers morning yoga
+Cancelled,46,49.99,6,2,1.4,152,183,1,3,0,F,Uptown,Credit Card,2023-02-09,nan,Yes,Night,GYM-61922,Prefers morning yoga
+Cancelled,40,59.99,4,1,2.6,112,136,0,0,0,m,Uptown,Direct Debit,2023-02-11,SUMMER50,Y,Evening,GYM-35344,Showers are cold
+Cancelled,31,49.99,2,3,0.0,147,290,1,1,0,M,Uptown,Cash,2023-02-12,nan,No,Afternoon,GYM-42573,Prefers morning yoga
+Cancelled,42,49.99,3,4,1.2,37,105,1,0,0,femal,Uptown,Direct Debit,14/02/23,nan,Yes,Morning,GYM-34780,Prefers morning yoga
+Renewed,6,59.99,5,4,4.6,134,23,1,0,0,Male,Northside,Credit Card,2023-02-15,WINTER20,Yes,Afternoon,GYM-68210,Prefers morning yoga
+Renewed,46,49.99,5,7,0.5,234,338,1,1,0,M,Uptown,Cash,2023-02-17,nan,Yes,Afternoon,GYM-64262,Prefers morning yoga
+Renewed,17,59.99,3,10,0.1,254,193,2,0,0,m,Northside,Credit Card,2023-02-18,nan,No,Evening,GYM-69969,Showers are cold
+Cancelled,31,49.99,3,4,1.1,73,168,1,0,0,femal,Northside,Direct Debit,20/02/23,nan,No,Night,GYM-10661,Prefers morning yoga
+Renewed,23,49.99,3,10,2.4,275,35,0,0,0,F,Downtown,Cash,2023-02-21,nan,Yes,Afternoon,GYM-76214,Prefers morning yoga
+Renewed,22,59.99,2,7,1.2,208,100,0,0,0,M,Northside,Credit Card,2023-02-22,nan,No,Evening,GYM-81899,Requested new barbell sets
+Renewed,46,49.99,4,11,1.2,266,33,0,0,0,F,Downtown,Credit Card,2023-02-24,nan,Yes,Evening,GYM-43067,Showers are cold
+Renewed,30,79.99,1,9,2.2,143,376,3,0,0,Female,Uptown,Credit Card,25/02/23,nan,Yes,Afternoon,GYM-92177,Prefers morning yoga
+Cancelled,38,59.99,6,3,0.6,41,38,3,2,0,Male,Downtown,Cash,2023-02-27,nan,Y,Afternoon,GYM-94682,Requested new barbell sets
+Renewed,34,49.99,5,9,2.8,223,210,0,0,0,m,Uptown,Cash,2023-02-28,nan,Yes,Night,GYM-67146,Showers are cold
+Renewed,39,59.99,4,6,0.3,51,229,1,0,0,m,Northside,Direct Debit,2023-03-02,nan,No,Morning,GYM-62452,Prefers morning yoga
+Cancelled,35,49.99,2,2,1.0,136,278,1,2,0,F,Downtown,Direct Debit,03/03/23,nan,No,Morning,GYM-54505,Requested new barbell sets
+Renewed,22,79.99,4,6,2.1,194,79,2,0,0,Male,Uptown,Cash,2023-03-05,WINTER20,Yes,Night,GYM-33707,Showers are cold
+Renewed,44,49.99,5,8,3.5,94,237,0,1,0,femal,Uptown,Credit Card,2023-03-06,WINTER20,No,Evening,GYM-15647,Prefers morning yoga
+Renewed,30,59.99,5,10,3.1,257,171,1,0,0,m,Downtown,Cash,2023-03-08,nan,No,Evening,GYM-24064,Requested new barbell sets
+Cancelled,19,,5,0,2.6,24,325,0,1,0,M,Downtown,Cash,09/03/23,nan,Y,Night,GYM-67083,Showers are cold
+Renewed,30,,6,7,0.9,231,58,0,0,0,m,Uptown,Cash,2023-03-11,nan,No,Morning,GYM-55411,Requested new barbell sets
+Cancelled,50,79.99,6,1,0.3,93,21,0,1,0,M,Uptown,Cash,2023-03-12,nan,No,Evening,GYM-65835,Requested new barbell sets
+Renewed,43,79.99,4,9,0.5,220,364,2,0,0,m,Northside,Direct Debit,2023-03-13,nan,Yes,Morning,GYM-41195,Prefers morning yoga
+Renewed,31,49.99,4,10,4.0,296,366,2,0,0,M,Uptown,Direct Debit,15/03/23,WINTER20,No,Evening,GYM-38979,Requested new barbell sets
+Renewed,31,49.99,5,7,3.9,202,343,1,0,0,Female,Downtown,Credit Card,2023-03-16,nan,Yes,Morning,GYM-49539,Prefers morning yoga
+Renewed,31,79.99,6,9,6.1,80,237,1,0,0,F,Uptown,Cash,2023-03-18,nan,Yes,Night,GYM-67752,Prefers morning yoga
+Cancelled,55,79.99,4,2,0.2,204,295,0,2,0,femal,Uptown,Cash,2023-03-19,nan,Y,Morning,GYM-33992,Requested new barbell sets
+Cancelled,38,49.99,6,4,1.5,76,340,0,3,0,femal,Downtown,Direct Debit,21/03/23,nan,Yes,Evening,GYM-43288,Requested new barbell sets
+Expired,39,49.99,2,10,2.1,37,93,0,0,0,Female,Northside,Direct Debit,2023-03-22,nan,Yes,Evening,GYM-15642,Requested new barbell sets
+Renewed,45,49.99,3,6,2.5,194,243,1,0,0,femal,Uptown,Cash,2023-03-24,nan,No,Evening,GYM-69876,Requested new barbell sets
+Renewed,37,79.99,4,6,2.1,41,10,1,0,0,M,Downtown,Direct Debit,2023-03-25,nan,No,Afternoon,GYM-56698,Showers are cold
+Cancelled,32,49.99,5,1,2.9,181,116,2,4,0,femal,Downtown,Cash,27/03/23,nan,Yes,Afternoon,GYM-13884,Prefers morning yoga
+Renewed,33,49.99,4,10,0.9,244,264,0,0,0,F,Downtown,Credit Card,2023-03-28,nan,Yes,Evening,GYM-58385,Requested new barbell sets
+Renewed,34,59.99,6,5,0.4,194,11,1,0,0,Male,Downtown,Credit Card,2023-03-30,nan,Yes,Night,GYM-45509,Showers are cold
+Renewed,34,49.99,2,13,0.5,77,153,0,1,0,M,Northside,Credit Card,2023-03-31,nan,Yes,Evening,GYM-41649,Requested new barbell sets
+Renewed,42,,7,13,0.0,124,37,3,0,0,femal,Downtown,Cash,01/04/23,nan,No,Night,GYM-89017,Showers are cold
+Expired,35,49.99,2,11,0.9,140,130,2,0,0,m,Uptown,Direct Debit,2023-04-03,nan,No,Evening,GYM-46300,Prefers morning yoga
+Cancelled,42,49.99,3,3,0.2,26,381,2,1,0,m,Northside,Credit Card,2023-04-04,nan,No,Evening,GYM-21036,Requested new barbell sets
+Cancelled,34,49.99,7,4,0.8,280,224,0,0,0,Male,Downtown,Cash,2023-04-06,nan,No,Night,GYM-77694,Showers are cold
+Renewed,35,59.99,2,6,2.0,292,142,1,0,0,Female,Uptown,Credit Card,07/04/23,nan,No,Morning,GYM-94571,Showers are cold
+Renewed,15,49.99,3,9,4.5,241,388,1,0,0,M,Northside,Credit Card,2023-04-09,nan,No,Afternoon,GYM-84756,Prefers morning yoga
+Renewed,44,59.99,2,8,3.7,235,53,2,0,0,m,Uptown,Direct Debit,2023-04-10,nan,Y,Evening,GYM-19747,Requested new barbell sets
+Renewed,38,79.99,5,6,0.6,202,23,1,2,0,F,Northside,Cash,2023-04-12,nan,No,Night,GYM-56692,Requested new barbell sets
+Renewed,44,59.99,1,10,0.3,141,394,2,0,0,Male,Downtown,Direct Debit,13/04/23,SUMMER50,No,Night,GYM-50230,Prefers morning yoga
+Cancelled,6,49.99,4,2,0.4,93,120,0,2,0,Female,Uptown,Direct Debit,2023-04-15,WINTER20,No,Afternoon,GYM-66777,Prefers morning yoga
+Cancelled,55,49.99,2,0,7.1,151,118,1,1,0,Female,Downtown,Direct Debit,2023-04-16,nan,No,Afternoon,GYM-72108,Prefers morning yoga
+Renewed,33,49.99,4,10,1.6,252,160,0,0,0,F,Northside,Credit Card,2023-04-18,nan,No,Morning,GYM-49806,Showers are cold
+Expired,46,49.99,4,8,0.4,66,73,1,0,0,femal,Downtown,Credit Card,19/04/23,nan,Yes,Evening,GYM-60387,Showers are cold
+Cancelled,24,49.99,3,2,3.7,175,184,5,5,0,F,Downtown,Credit Card,2023-04-20,nan,No,Afternoon,GYM-92038,Prefers morning yoga
+Cancelled,41,59.99,3,0,1.0,102,191,0,2,0,femal,Uptown,Cash,2023-04-22,nan,No,Morning,GYM-71824,Requested new barbell sets
+Cancelled,24,49.99,3,1,4.6,90,219,1,1,0,Male,Downtown,Direct Debit,2023-04-23,nan,No,Evening,GYM-15518,Showers are cold
+Renewed,28,49.99,4,5,0.6,192,120,1,0,0,F,Downtown,Credit Card,25/04/23,nan,No,Evening,GYM-60350,Prefers morning yoga
+Renewed,54,49.99,4,9,1.0,165,208,0,0,0,m,Downtown,Direct Debit,2023-04-26,nan,No,Night,GYM-16277,Showers are cold
+Renewed,33,59.99,3,5,1.4,89,383,0,0,0,Female,Northside,Direct Debit,2023-04-28,nan,Yes,Afternoon,GYM-85877,Showers are cold
+Cancelled,37,49.99,5,2,4.5,267,299,0,5,0,femal,Uptown,Direct Debit,2023-04-29,nan,Y,Morning,GYM-57558,Prefers morning yoga
+Renewed,43,59.99,3,4,4.1,50,345,0,1,0,F,Uptown,Direct Debit,01/05/23,nan,Yes,Morning,GYM-33613,Requested new barbell sets
+Renewed,39,49.99,5,7,1.7,165,163,2,0,0,M,Downtown,Direct Debit,2023-05-02,nan,No,Night,GYM-10959,Requested new barbell sets
+Renewed,36,,1,5,0.5,173,267,2,0,0,F,Uptown,Credit Card,2023-05-04,nan,Yes,Morning,GYM-62100,Showers are cold
+Renewed,38,79.99,6,16,1.0,226,2,0,0,0,femal,Northside,Cash,2023-05-05,WINTER20,Yes,Morning,GYM-59717,Requested new barbell sets
+Cancelled,59,49.99,6,1,7.4,265,49,0,2,0,Female,Northside,Cash,07/05/23,nan,Yes,Evening,GYM-15936,Requested new barbell sets
+Cancelled,34,49.99,2,0,1.9,8,363,1,3,0,m,Downtown,Cash,2023-05-08,WINTER20,No,Afternoon,GYM-38678,Prefers morning yoga
+Renewed,37,49.99,6,9,3.0,86,210,1,0,0,F,Downtown,Cash,2023-05-09,nan,Yes,Night,GYM-88691,Prefers morning yoga
+Renewed,45,49.99,6,11,1.2,93,15,2,1,0,m,Northside,Direct Debit,2023-05-11,nan,Yes,Afternoon,GYM-33042,Prefers morning yoga
+Renewed,46,59.99,4,8,1.5,51,167,0,0,0,M,Northside,Credit Card,12/05/23,nan,Yes,Morning,GYM-94299,Requested new barbell sets
+Renewed,46,79.99,2,6,1.1,178,282,0,0,0,femal,Northside,Credit Card,2023-05-14,nan,Yes,Morning,GYM-21642,Requested new barbell sets
+Renewed,41,59.99,3,11,2.4,277,378,2,0,0,Female,Downtown,Direct Debit,2023-05-15,nan,Yes,Morning,GYM-29923,Prefers morning yoga
+Renewed,23,79.99,5,7,3.8,238,325,3,0,0,Male,Northside,Direct Debit,2023-05-17,nan,Yes,Afternoon,GYM-91832,Requested new barbell sets
+Renewed,51,49.99,3,10,1.4,72,297,1,0,0,Female,Downtown,Credit Card,18/05/23,WINTER20,No,Night,GYM-61860,Prefers morning yoga
+Cancelled,23,,1,3,1.3,71,184,3,4,0,femal,Northside,Credit Card,2023-05-20,nan,No,Night,GYM-94255,Showers are cold
+Cancelled,38,59.99,3,4,0.8,67,137,0,0,0,Male,Northside,Cash,2023-05-21,nan,No,Evening,GYM-19227,Showers are cold
+Renewed,27,49.99,4,7,0.4,4,124,1,1,0,Male,Uptown,Cash,2023-05-23,nan,Y,Night,GYM-78580,Requested new barbell sets
+Renewed,34,59.99,4,3,5.6,237,391,1,0,0,Female,Northside,Cash,24/05/23,nan,No,Evening,GYM-85186,Requested new barbell sets
+Cancelled,38,49.99,5,4,0.8,120,57,1,0,0,femal,Downtown,Credit Card,2023-05-26,SUMMER50,Y,Morning,GYM-20412,Requested new barbell sets
+Renewed,38,49.99,4,7,3.2,210,361,0,0,0,Male,Northside,Cash,2023-05-27,SUMMER50,Yes,Night,GYM-41040,Requested new barbell sets
+Cancelled,-5,79.99,1,1,2.5,261,65,0,4,0,femal,Uptown,Credit Card,2023-05-28,SUMMER50,No,Evening,GYM-95947,Showers are cold
+Cancelled,51,49.99,4,2,3.1,57,339,4,3,0,m,Northside,Credit Card,30/05/23,nan,Yes,Evening,GYM-58842,Prefers morning yoga
+Renewed,39,79.99,2,5,5.5,42,201,0,1,0,M,Northside,Direct Debit,2023-05-31,nan,No,Afternoon,GYM-29500,Showers are cold
+Renewed,32,79.99,4,7,2.0,196,8,1,0,0,F,Northside,Credit Card,2023-06-02,nan,No,Morning,GYM-48433,Prefers morning yoga
+Cancelled,44,59.99,2,3,4.6,71,104,1,1,0,femal,Downtown,Direct Debit,2023-06-03,nan,Yes,Night,GYM-90082,Requested new barbell sets
+Renewed,46,59.99,3,6,0.4,90,88,0,0,0,femal,Northside,Direct Debit,05/06/23,WINTER20,No,Night,GYM-23024,Prefers morning yoga
+Cancelled,22,59.99,2,3,2.0,36,88,1,4,0,Male,Northside,Credit Card,2023-06-06,nan,No,Night,GYM-39088,Prefers morning yoga
+Expired,40,79.99,4,6,3.0,236,343,0,0,0,femal,Northside,Credit Card,2023-06-08,nan,Yes,Evening,GYM-32828,Prefers morning yoga
+Cancelled,42,49.99,3,2,0.6,292,5,1,1,0,femal,Uptown,Cash,2023-06-09,nan,No,Night,GYM-99313,Prefers morning yoga
+Renewed,32,49.99,6,11,2.7,153,157,0,0,0,Male,Downtown,Credit Card,11/06/23,nan,No,Night,GYM-46967,Showers are cold
+Cancelled,48,59.99,3,1,3.0,169,378,2,1,0,Female,Downtown,Cash,2023-06-12,nan,Yes,Night,GYM-83948,Requested new barbell sets
+Renewed,33,49.99,6,4,3.6,271,329,2,0,0,femal,Uptown,Cash,2023-06-14,nan,Yes,Morning,GYM-59485,Requested new barbell sets
+Renewed,36,49.99,2,11,0.8,109,102,0,0,0,m,Downtown,Credit Card,2023-06-15,nan,No,Morning,GYM-52440,Prefers morning yoga
+Expired,33,49.99,5,9,2.3,150,222,2,0,0,F,Uptown,Cash,16/06/23,nan,Y,Evening,GYM-98797,Requested new barbell sets
+Renewed,35,59.99,4,11,0.7,130,170,0,1,0,femal,Northside,Direct Debit,2023-06-18,nan,Yes,Afternoon,GYM-75578,Showers are cold
+Expired,24,79.99,7,4,2.7,267,32,0,0,0,Male,Downtown,Direct Debit,2023-06-19,nan,Y,Night,GYM-57313,Prefers morning yoga
+Expired,20,49.99,4,7,1.2,22,180,0,0,0,m,Northside,Credit Card,2023-06-21,nan,Yes,Night,GYM-27349,Requested new barbell sets
+Renewed,50,79.99,2,7,1.8,138,183,0,0,0,F,Northside,Credit Card,22/06/23,nan,Y,Evening,GYM-10215,Requested new barbell sets
+Renewed,26,59.99,4,12,1.1,238,86,1,0,0,Female,Downtown,Credit Card,2023-06-24,nan,No,Night,GYM-21427,Prefers morning yoga
+Renewed,25,79.99,8,7,0.4,191,68,3,1,0,femal,Northside,Direct Debit,2023-06-25,nan,No,Afternoon,GYM-30704,Showers are cold
+Renewed,13,59.99,3,14,0.4,126,379,0,0,0,Male,Northside,Cash,2023-06-27,nan,No,Evening,GYM-40432,Prefers morning yoga
+Renewed,28,59.99,2,7,0.2,28,25,2,0,0,Female,Uptown,Direct Debit,28/06/23,SUMMER50,Yes,Morning,GYM-12705,Prefers morning yoga
+Cancelled,21,49.99,5,3,1.9,120,5,0,3,0,femal,Downtown,Cash,2023-06-30,nan,Yes,Afternoon,GYM-91598,Requested new barbell sets
+Renewed,51,79.99,4,9,3.8,197,255,0,0,0,Female,Northside,Cash,2023-07-01,nan,No,Night,GYM-51732,Requested new barbell sets
+Renewed,45,49.99,2,13,0.0,173,181,1,0,0,Male,Uptown,Credit Card,2023-07-03,nan,Yes,Afternoon,GYM-30495,Prefers morning yoga
+Cancelled,28,79.99,6,1,0.1,143,294,0,3,0,m,Downtown,Credit Card,04/07/23,nan,No,Morning,GYM-41233,Prefers morning yoga
+Renewed,57,79.99,3,5,1.2,178,259,0,0,0,m,Northside,Credit Card,2023-07-05,nan,Y,Evening,GYM-83658,Requested new barbell sets
+Cancelled,44,49.99,2,1,2.7,10,383,1,1,0,Female,Northside,Direct Debit,2023-07-07,nan,Yes,Afternoon,GYM-83785,Prefers morning yoga
+Renewed,31,49.99,8,5,0.3,138,313,1,0,0,Female,Northside,Direct Debit,2023-07-08,nan,No,Evening,GYM-39656,Showers are cold
+Renewed,10,59.99,5,5,0.6,252,303,1,0,0,femal,Northside,Direct Debit,10/07/23,nan,Yes,Evening,GYM-14946,Prefers morning yoga
+Cancelled,57,49.99,4,3,0.5,18,315,1,2,0,M,Northside,Credit Card,2023-07-11,nan,No,Night,GYM-40207,Showers are cold
+Cancelled,21,79.99,2,4,1.0,159,233,1,4,0,F,Downtown,Credit Card,2023-07-13,WINTER20,Yes,Night,GYM-87417,Prefers morning yoga
+Cancelled,18,,3,3,0.5,121,281,0,2,0,femal,Downtown,Cash,2023-07-14,nan,Yes,Evening,GYM-14743,Prefers morning yoga
+Cancelled,45,49.99,6,3,0.9,71,206,0,1,0,Female,Uptown,Cash,16/07/23,nan,No,Morning,GYM-28227,Prefers morning yoga
+Cancelled,59,79.99,0,0,2.6,54,76,0,2,0,Female,Uptown,Credit Card,2023-07-17,WINTER20,No,Evening,GYM-59612,Requested new barbell sets
+Renewed,48,59.99,3,10,1.9,168,167,0,0,0,F,Uptown,Direct Debit,2023-07-19,WINTER20,No,Morning,GYM-84696,Requested new barbell sets
+Renewed,40,,3,7,0.2,98,341,0,0,0,Male,Downtown,Credit Card,2023-07-20,nan,No,Afternoon,GYM-42068,Requested new barbell sets
+Cancelled,40,49.99,5,2,2.0,69,378,1,6,0,m,Downtown,Direct Debit,22/07/23,nan,No,Evening,GYM-23521,Requested new barbell sets
+Cancelled,43,59.99,0,0,1.3,148,55,1,2,0,Male,Downtown,Credit Card,2023-07-23,nan,No,Afternoon,GYM-62967,Requested new barbell sets
+Expired,42,59.99,5,7,5.5,116,294,5,0,0,F,Northside,Credit Card,2023-07-24,nan,Yes,Evening,GYM-17292,Requested new barbell sets
+Renewed,37,59.99,4,9,0.7,25,80,2,1,0,F,Downtown,Cash,2023-07-26,WINTER20,Yes,Afternoon,GYM-17629,Prefers morning yoga
+Renewed,36,59.99,2,7,2.6,247,166,1,0,0,M,Downtown,Direct Debit,27/07/23,nan,Yes,Morning,GYM-10289,Showers are cold
+Cancelled,34,59.99,4,2,2.6,208,175,2,1,0,femal,Northside,Direct Debit,2023-07-29,nan,Yes,Afternoon,GYM-25791,Requested new barbell sets
+Renewed,27,49.99,6,9,0.5,226,280,1,1,0,femal,Uptown,Credit Card,2023-07-30,nan,Yes,Afternoon,GYM-52080,Requested new barbell sets
+Expired,32,49.99,8,5,4.7,113,382,2,0,0,femal,Uptown,Cash,2023-08-01,nan,Yes,Night,GYM-74407,Prefers morning yoga
+Cancelled,18,59.99,3,1,1.4,193,148,0,1,0,femal,Uptown,Credit Card,02/08/23,nan,No,Evening,GYM-98312,Requested new barbell sets
+Renewed,34,49.99,2,5,2.3,9,255,0,0,0,M,Northside,Credit Card,2023-08-04,nan,Yes,Evening,GYM-42246,Prefers morning yoga
+Cancelled,25,,3,4,0.3,94,280,2,1,0,m,Northside,Direct Debit,2023-08-05,nan,No,Evening,GYM-35308,Requested new barbell sets
+Cancelled,23,49.99,3,2,0.6,120,344,0,3,0,femal,Northside,Credit Card,2023-08-07,nan,No,Evening,GYM-29960,Showers are cold
+Renewed,36,59.99,2,9,1.8,125,277,2,0,0,Female,Downtown,Cash,08/08/23,nan,Y,Night,GYM-90986,Requested new barbell sets
+Expired,48,59.99,1,1,0.8,36,278,0,0,0,F,Uptown,Credit Card,2023-08-10,nan,Yes,Morning,GYM-79318,Requested new barbell sets
+Renewed,44,49.99,7,9,1.4,68,205,3,0,0,M,Northside,Cash,2023-08-11,nan,No,Afternoon,GYM-49683,Prefers morning yoga
+Cancelled,19,49.99,5,2,0.9,296,29,1,2,0,Male,Northside,Direct Debit,2023-08-12,WINTER20,No,Afternoon,GYM-55631,Requested new barbell sets
+Renewed,25,49.99,8,10,2.0,173,217,2,0,0,femal,Uptown,Direct Debit,14/08/23,nan,Y,Morning,GYM-14937,Prefers morning yoga
+Cancelled,44,,3,0,1.3,44,230,0,5,0,M,Uptown,Credit Card,2023-08-15,WINTER20,Yes,Afternoon,GYM-86519,Showers are cold
+Renewed,25,79.99,4,5,0.0,122,358,2,0,0,Male,Downtown,Cash,2023-08-17,nan,Yes,Night,GYM-20230,Requested new barbell sets
+Renewed,999,49.99,5,12,2.1,26,161,1,1,0,M,Uptown,Direct Debit,2023-08-18,nan,Yes,Evening,GYM-41994,Prefers morning yoga
+Expired,40,,7,3,1.1,192,216,0,1,0,Male,Northside,Cash,20/08/23,nan,Yes,Evening,GYM-21710,Showers are cold
+Renewed,25,,5,6,0.8,135,227,0,0,0,M,Downtown,Direct Debit,2023-08-21,nan,No,Night,GYM-95978,Showers are cold
+Renewed,36,49.99,1,6,0.2,194,332,2,0,0,M,Uptown,Direct Debit,2023-08-23,nan,No,Evening,GYM-71779,Prefers morning yoga
+Expired,21,79.99,3,8,0.5,48,220,2,0,0,femal,Downtown,Cash,2023-08-24,nan,Yes,Afternoon,GYM-54477,Prefers morning yoga
+Expired,28,,3,4,0.5,95,233,0,0,0,m,Northside,Cash,26/08/23,nan,Yes,Morning,GYM-41881,Requested new barbell sets
+Cancelled,38,49.99,7,0,5.5,120,72,0,0,0,Female,Northside,Cash,2023-08-27,nan,Yes,Morning,GYM-94076,Showers are cold
+Cancelled,19,49.99,3,1,1.1,248,398,0,2,0,F,Northside,Direct Debit,2023-08-29,nan,Yes,Afternoon,GYM-73904,Showers are cold
+Renewed,39,49.99,4,6,0.1,216,94,1,0,0,Female,Northside,Cash,2023-08-30,nan,Y,Morning,GYM-57529,Prefers morning yoga
+Renewed,34,49.99,0,5,0.3,113,94,0,1,0,m,Downtown,Credit Card,31/08/23,nan,No,Morning,GYM-68411,Showers are cold
+Renewed,40,,4,12,0.2,13,393,1,1,0,femal,Downtown,Cash,2023-09-02,nan,Yes,Evening,GYM-14437,Prefers morning yoga
+Cancelled,37,59.99,3,3,1.8,61,242,1,1,0,Male,Northside,Direct Debit,2023-09-03,nan,Yes,Afternoon,GYM-79456,Requested new barbell sets
+Cancelled,48,49.99,4,3,0.4,42,372,0,3,0,Female,Downtown,Cash,2023-09-05,nan,Y,Night,GYM-24713,Prefers morning yoga
+Cancelled,36,59.99,4,2,1.4,239,292,0,2,0,F,Northside,Cash,06/09/23,nan,Yes,Morning,GYM-76663,Requested new barbell sets
+Cancelled,30,49.99,2,2,0.9,95,262,0,5,0,femal,Northside,Cash,2023-09-08,nan,No,Afternoon,GYM-65753,Prefers morning yoga
+Renewed,36,49.99,6,4,3.3,26,123,0,0,0,F,Uptown,Credit Card,2023-09-09,nan,Y,Night,GYM-84718,Requested new barbell sets
+Renewed,40,59.99,5,14,0.8,241,287,2,0,0,Male,Downtown,Direct Debit,2023-09-11,nan,No,Night,GYM-95406,Showers are cold
+Renewed,35,79.99,4,6,1.2,239,266,1,2,0,F,Uptown,Credit Card,12/09/23,nan,Yes,Evening,GYM-74388,Prefers morning yoga
+Renewed,35,49.99,2,10,2.6,66,108,0,0,0,m,Northside,Credit Card,2023-09-14,nan,Yes,Evening,GYM-47495,Prefers morning yoga
+Renewed,27,79.99,5,10,1.1,280,347,0,0,0,Female,Uptown,Direct Debit,2023-09-15,WINTER20,Y,Morning,GYM-52385,Prefers morning yoga
+Cancelled,28,59.99,1,1,3.2,191,47,1,1,0,F,Northside,Direct Debit,2023-09-17,nan,Yes,Afternoon,GYM-15509,Requested new barbell sets
+Renewed,20,59.99,4,9,2.2,118,300,2,0,0,Female,Northside,Cash,18/09/23,nan,Yes,Afternoon,GYM-81017,Prefers morning yoga
+Renewed,52,59.99,5,9,1.1,151,94,1,1,0,M,Northside,Direct Debit,2023-09-19,nan,No,Evening,GYM-36033,Prefers morning yoga
+Renewed,22,49.99,0,5,1.4,264,32,2,0,0,Female,Downtown,Cash,2023-09-21,nan,No,Evening,GYM-46222,Showers are cold
+Cancelled,28,49.99,3,1,6.8,230,117,0,2,0,Male,Northside,Credit Card,2023-09-22,SUMMER50,No,Evening,GYM-60203,Prefers morning yoga
+Cancelled,27,59.99,1,2,2.2,248,131,0,2,0,m,Northside,Cash,24/09/23,nan,Yes,Morning,GYM-99194,Prefers morning yoga
+Renewed,43,49.99,3,10,4.7,58,250,0,0,0,femal,Downtown,Direct Debit,2023-09-25,nan,No,Afternoon,GYM-40487,Prefers morning yoga
+Renewed,32,79.99,3,11,0.4,16,302,0,0,0,F,Downtown,Cash,2023-09-27,nan,Yes,Morning,GYM-73428,Prefers morning yoga
+Cancelled,47,49.99,1,1,1.3,170,121,2,1,0,femal,Northside,Credit Card,2023-09-28,nan,Yes,Afternoon,GYM-29641,Showers are cold
+Renewed,28,49.99,2,8,4.8,131,217,0,0,0,m,Downtown,Direct Debit,30/09/23,nan,No,Evening,GYM-74657,Prefers morning yoga
+Cancelled,37,59.99,6,1,0.8,135,52,0,1,0,Female,Northside,Direct Debit,2023-10-01,nan,Yes,Morning,GYM-14867,Prefers morning yoga
+Cancelled,26,49.99,7,2,6.9,41,125,0,2,0,F,Uptown,Cash,2023-10-03,nan,Yes,Night,GYM-84599,Showers are cold
+Renewed,56,59.99,2,12,0.2,5,158,0,0,0,m,Downtown,Cash,2023-10-04,WINTER20,Yes,Morning,GYM-65984,Requested new barbell sets
+Renewed,23,,5,5,4.7,169,158,1,0,0,Male,Uptown,Cash,06/10/23,nan,No,Morning,GYM-92047,Requested new barbell sets
+Expired,38,79.99,3,10,1.2,287,282,2,2,0,M,Northside,Credit Card,2023-10-07,nan,No,Night,GYM-34681,Showers are cold
+Renewed,41,59.99,5,9,0.2,214,88,0,1,0,M,Downtown,Credit Card,2023-10-08,nan,No,Night,GYM-57455,Showers are cold
+Renewed,39,59.99,0,14,4.2,68,175,1,0,0,Male,Downtown,Direct Debit,2023-10-10,nan,No,Evening,GYM-71138,Requested new barbell sets
+Cancelled,33,59.99,5,1,0.6,26,291,0,1,0,femal,Northside,Direct Debit,11/10/23,nan,No,Night,GYM-31984,Prefers morning yoga
+Expired,999,79.99,2,10,0.0,224,158,0,0,0,M,Downtown,Credit Card,2023-10-13,nan,No,Night,GYM-74321,Requested new barbell sets
+Expired,35,49.99,1,14,0.3,233,248,1,1,0,Male,Downtown,Cash,2023-10-14,nan,Yes,Morning,GYM-54554,Prefers morning yoga
+Cancelled,33,49.99,1,0,2.2,50,356,1,1,0,Female,Downtown,Cash,2023-10-16,nan,Yes,Morning,GYM-91774,Showers are cold
+Renewed,44,49.99,4,8,7.6,148,121,0,0,0,femal,Uptown,Credit Card,17/10/23,nan,No,Evening,GYM-18182,Showers are cold
+Renewed,57,49.99,1,7,0.2,74,236,0,0,0,femal,Northside,Cash,2023-10-19,nan,Yes,Night,GYM-19192,Showers are cold
+Cancelled,29,59.99,4,1,1.2,91,124,0,1,0,Male,Northside,Credit Card,2023-10-20,WINTER20,Yes,Afternoon,GYM-87159,Requested new barbell sets
+Cancelled,21,,4,0,0.4,67,314,1,4,0,M,Northside,Cash,2023-10-22,nan,No,Morning,GYM-50256,Showers are cold
+Renewed,34,59.99,2,8,2.7,234,278,2,0,0,Female,Downtown,Cash,23/10/23,nan,No,Evening,GYM-88207,Requested new barbell sets
+Expired,60,49.99,3,7,0.3,143,354,2,1,0,femal,Downtown,Direct Debit,2023-10-25,nan,No,Morning,GYM-15097,Prefers morning yoga
+Renewed,26,59.99,3,12,0.5,75,323,2,0,0,Male,Downtown,Cash,2023-10-26,nan,No,Morning,GYM-46880,Prefers morning yoga
+Renewed,51,,7,4,0.4,85,91,1,0,0,Male,Northside,Cash,2023-10-27,nan,No,Afternoon,GYM-77407,Prefers morning yoga
+Renewed,51,59.99,5,11,1.6,226,104,1,2,0,femal,Uptown,Credit Card,29/10/23,nan,Y,Evening,GYM-27473,Showers are cold
+Renewed,29,59.99,5,10,4.1,55,41,2,1,0,femal,Northside,Credit Card,2023-10-30,nan,Yes,Afternoon,GYM-88709,Prefers morning yoga
+Renewed,40,49.99,2,8,1.4,79,396,3,0,1,Female,Northside,Credit Card,2023-11-01,nan,No,Afternoon,GYM-39808,Showers are cold
+Renewed,51,49.99,0,8,0.1,23,128,2,0,0,femal,Uptown,Credit Card,2023-11-02,nan,Yes,Evening,GYM-26003,Requested new barbell sets
+Renewed,31,49.99,3,13,1.7,226,52,1,0,0,F,Downtown,Cash,04/11/23,nan,Yes,Night,GYM-81071,Showers are cold
+Cancelled,32,79.99,4,1,3.2,27,167,0,1,0,M,Downtown,Credit Card,2023-11-05,nan,No,Afternoon,GYM-57004,Prefers morning yoga
+Cancelled,29,79.99,7,3,0.3,120,89,2,1,0,femal,Northside,Direct Debit,2023-11-07,SUMMER50,Yes,Night,GYM-37708,Showers are cold
+Cancelled,24,59.99,3,4,0.2,92,246,1,2,0,F,Uptown,Credit Card,2023-11-08,nan,Yes,Morning,GYM-47307,Showers are cold
+Expired,28,49.99,5,2,0.4,111,173,2,0,0,Female,Northside,Cash,10/11/23,nan,No,Evening,GYM-86258,Requested new barbell sets
+Renewed,22,49.99,3,11,2.7,30,371,2,0,0,Female,Northside,Direct Debit,2023-11-11,nan,Yes,Evening,GYM-78851,Showers are cold
+Renewed,35,59.99,5,7,1.8,142,86,0,0,0,m,Uptown,Cash,2023-11-13,nan,No,Morning,GYM-63044,Prefers morning yoga
+Cancelled,27,59.99,3,0,1.6,297,368,0,2,0,m,Uptown,Direct Debit,2023-11-14,nan,Yes,Morning,GYM-53524,Showers are cold
+Renewed,37,49.99,3,6,0.6,226,149,1,0,0,Female,Downtown,Direct Debit,15/11/23,nan,Yes,Morning,GYM-76929,Showers are cold
+Expired,19,49.99,3,8,0.8,249,248,0,0,0,m,Northside,Direct Debit,2023-11-17,nan,No,Afternoon,GYM-73804,Prefers morning yoga
+Renewed,38,59.99,2,5,6.8,49,114,0,1,0,Male,Uptown,Cash,2023-11-18,nan,No,Afternoon,GYM-37668,Showers are cold
+Expired,43,49.99,1,10,0.6,213,179,1,0,0,F,Uptown,Direct Debit,2023-11-20,WINTER20,No,Afternoon,GYM-20937,Requested new barbell sets
+Renewed,15,49.99,6,5,4.6,268,119,1,0,0,Female,Uptown,Cash,21/11/23,WINTER20,No,Afternoon,GYM-27104,Prefers morning yoga
+Cancelled,38,49.99,5,0,1.7,287,27,2,2,0,Male,Uptown,Direct Debit,2023-11-23,nan,No,Afternoon,GYM-14326,Prefers morning yoga
+Renewed,47,59.99,6,5,0.3,194,308,0,0,0,M,Northside,Credit Card,2023-11-24,SUMMER50,No,Night,GYM-79133,Showers are cold
+Expired,22,79.99,4,9,1.3,253,116,3,0,0,M,Northside,Credit Card,2023-11-26,nan,Yes,Night,GYM-47727,Requested new barbell sets
+Renewed,51,79.99,2,10,5.9,78,190,4,0,0,m,Northside,Direct Debit,27/11/23,nan,Yes,Afternoon,GYM-50526,Requested new barbell sets
+Cancelled,39,59.99,5,1,1.1,243,144,1,0,0,m,Uptown,Direct Debit,2023-11-29,nan,Yes,Evening,GYM-99556,Prefers morning yoga
+Expired,27,59.99,6,4,4.0,90,319,1,1,0,Male,Downtown,Credit Card,2023-11-30,nan,Yes,Evening,GYM-38341,Prefers morning yoga
+Renewed,34,,6,11,0.6,5,261,1,1,0,M,Uptown,Credit Card,2023-12-02,nan,Yes,Night,GYM-70493,Showers are cold
+Cancelled,40,59.99,7,2,1.7,280,141,1,2,0,femal,Northside,Cash,03/12/23,nan,Yes,Night,GYM-79416,Prefers morning yoga
+Cancelled,35,49.99,5,2,3.7,149,113,1,2,0,Female,Northside,Credit Card,2023-12-04,SUMMER50,No,Evening,GYM-75295,Requested new barbell sets
+Renewed,40,59.99,2,12,5.1,281,383,1,0,0,femal,Northside,Cash,2023-12-06,WINTER20,No,Evening,GYM-88386,Showers are cold
+Cancelled,25,49.99,3,2,1.3,190,272,1,3,0,F,Downtown,Direct Debit,2023-12-07,nan,Yes,Evening,GYM-31248,Showers are cold
+Cancelled,36,49.99,4,0,2.0,273,37,1,1,0,m,Downtown,Cash,09/12/23,nan,No,Night,GYM-90679,Requested new barbell sets
+Expired,20,49.99,4,5,0.0,72,196,3,0,0,Male,Northside,Direct Debit,2023-12-10,nan,No,Night,GYM-33057,Requested new barbell sets
+Renewed,33,49.99,2,10,0.6,67,12,0,0,0,femal,Uptown,Cash,2023-12-12,nan,Yes,Evening,GYM-84017,Prefers morning yoga
+Renewed,25,49.99,5,9,0.7,62,111,1,1,0,m,Northside,Cash,2023-12-13,WINTER20,No,Night,GYM-42700,Requested new barbell sets
+Expired,27,49.99,4,8,0.2,133,136,1,0,0,Male,Northside,Cash,15/12/23,nan,Yes,Afternoon,GYM-16243,Showers are cold
+Cancelled,47,79.99,3,4,0.7,267,171,2,1,0,M,Downtown,Direct Debit,2023-12-16,nan,No,Evening,GYM-49060,Showers are cold
+Renewed,-5,,4,7,0.8,222,126,1,1,0,m,Downtown,Direct Debit,2023-12-18,SUMMER50,Yes,Morning,GYM-91280,Requested new barbell sets
+Cancelled,41,,6,5,6.9,125,361,0,0,0,femal,Downtown,Cash,2023-12-19,WINTER20,No,Evening,GYM-34970,Prefers morning yoga
+Renewed,24,79.99,3,4,2.2,264,332,0,0,0,Male,Downtown,Direct Debit,21/12/23,nan,No,Night,GYM-10375,Showers are cold
+Renewed,31,79.99,2,7,1.1,6,18,1,1,0,Male,Northside,Cash,2023-12-22,nan,No,Morning,GYM-31261,Prefers morning yoga
+Renewed,47,59.99,5,4,8.9,205,207,1,1,0,femal,Uptown,Direct Debit,2023-12-23,nan,No,Morning,GYM-28523,Requested new barbell sets
+Renewed,36,79.99,5,6,0.3,178,157,0,0,0,m,Northside,Cash,2023-12-25,nan,No,Evening,GYM-93894,Prefers morning yoga
+Cancelled,58,49.99,5,3,1.3,182,159,0,1,0,F,Northside,Credit Card,26/12/23,nan,Yes,Afternoon,GYM-53418,Showers are cold
+Renewed,38,49.99,3,4,2.1,227,333,0,1,0,Female,Uptown,Credit Card,2023-12-28,WINTER20,No,Afternoon,GYM-80037,Requested new barbell sets
+Expired,36,49.99,7,10,0.1,235,239,1,0,0,M,Northside,Cash,2023-12-29,nan,No,Night,GYM-98084,Showers are cold
+Expired,31,59.99,3,7,2.5,145,375,3,0,0,femal,Uptown,Direct Debit,2023-12-31,nan,No,Morning,GYM-53639,Showers are cold
+Cancelled,36,59.99,3,4,0.2,57,78,1,3,0,femal,Downtown,Cash,01/01/24,nan,Y,Afternoon,GYM-32546,Requested new barbell sets
+Renewed,33,49.99,2,4,0.3,295,331,1,1,0,m,Downtown,Credit Card,2024-01-03,SUMMER50,Yes,Night,GYM-56615,Prefers morning yoga
+Renewed,42,49.99,5,16,0.3,240,356,0,1,0,m,Downtown,Credit Card,2024-01-04,nan,Yes,Morning,GYM-40571,Requested new barbell sets
+Cancelled,44,59.99,3,0,5.3,286,330,1,0,0,F,Uptown,Cash,2024-01-06,nan,No,Night,GYM-16345,Showers are cold
+Cancelled,27,49.99,4,1,2.3,162,196,1,5,0,M,Northside,Credit Card,07/01/24,nan,Yes,Afternoon,GYM-65282,Showers are cold
+Renewed,21,59.99,4,8,2.1,25,119,2,0,0,m,Downtown,Cash,2024-01-09,WINTER20,Yes,Night,GYM-90010,Showers are cold
+Expired,16,59.99,4,4,1.6,105,247,2,0,0,F,Downtown,Credit Card,2024-01-10,nan,No,Night,GYM-73255,Requested new barbell sets
+Cancelled,40,59.99,4,2,0.7,239,138,1,1,0,femal,Northside,Direct Debit,2024-01-11,nan,Yes,Afternoon,GYM-57127,Requested new barbell sets
+Expired,23,59.99,5,9,1.9,41,225,0,0,0,Female,Downtown,Direct Debit,13/01/24,WINTER20,Yes,Afternoon,GYM-48923,Requested new barbell sets
+Cancelled,13,79.99,4,1,1.1,132,82,1,1,0,Male,Downtown,Direct Debit,2024-01-14,nan,Y,Night,GYM-98198,Requested new barbell sets
+Cancelled,38,49.99,6,4,0.3,43,25,2,5,0,Female,Uptown,Cash,2024-01-16,nan,Yes,Afternoon,GYM-25271,Prefers morning yoga
+Renewed,-5,59.99,4,6,2.3,34,127,0,0,0,Female,Northside,Cash,2024-01-17,nan,Yes,Evening,GYM-27762,Showers are cold
+Expired,34,59.99,1,7,0.3,0,222,0,0,0,Female,Uptown,Direct Debit,19/01/24,nan,Yes,Evening,GYM-72030,Prefers morning yoga
+Cancelled,43,49.99,1,1,0.4,225,338,0,3,0,Female,Downtown,Direct Debit,2024-01-20,nan,No,Evening,GYM-33519,Showers are cold
+Renewed,35,49.99,3,7,3.4,298,43,0,0,0,Male,Downtown,Direct Debit,2024-01-22,nan,No,Morning,GYM-10710,Showers are cold
+Renewed,34,,6,11,2.2,287,83,1,0,0,femal,Northside,Credit Card,2024-01-23,SUMMER50,Yes,Evening,GYM-38026,Prefers morning yoga
+Renewed,44,49.99,4,2,2.0,235,24,1,0,0,M,Downtown,Direct Debit,25/01/24,nan,Yes,Evening,GYM-99381,Requested new barbell sets
+Cancelled,32,59.99,1,1,1.1,32,219,2,2,0,M,Uptown,Credit Card,2024-01-26,nan,No,Evening,GYM-14892,Showers are cold
+Expired,37,79.99,5,12,1.0,94,292,3,1,0,femal,Uptown,Direct Debit,2024-01-28,nan,Yes,Afternoon,GYM-45995,Requested new barbell sets
+Renewed,38,49.99,1,8,2.3,204,203,2,0,0,F,Northside,Cash,2024-01-29,nan,Y,Afternoon,GYM-27114,Prefers morning yoga
+Cancelled,28,49.99,3,4,2.7,108,367,1,2,0,F,Northside,Direct Debit,30/01/24,nan,No,Afternoon,GYM-98340,Showers are cold
+Renewed,44,79.99,5,9,1.4,29,192,0,0,0,m,Downtown,Credit Card,2024-02-01,nan,Yes,Afternoon,GYM-48960,Requested new barbell sets
+Expired,33,49.99,3,9,7.0,265,1,1,0,0,Female,Northside,Direct Debit,2024-02-02,nan,No,Afternoon,GYM-66340,Prefers morning yoga
+Cancelled,27,49.99,4,7,6.2,22,201,0,3,0,Female,Northside,Credit Card,2024-02-04,nan,Yes,Evening,GYM-27851,Showers are cold
+Cancelled,40,59.99,5,1,1.1,96,353,1,3,0,Male,Downtown,Direct Debit,05/02/24,nan,Yes,Evening,GYM-44326,Prefers morning yoga
+Renewed,26,59.99,5,10,3.4,38,31,0,0,0,Female,Downtown,Credit Card,2024-02-07,nan,Yes,Afternoon,GYM-53479,Requested new barbell sets
+Renewed,35,49.99,2,3,1.6,172,88,1,0,0,Male,Uptown,Credit Card,2024-02-08,nan,No,Night,GYM-48025,Showers are cold
+Renewed,34,49.99,4,4,1.4,247,201,0,0,0,m,Uptown,Direct Debit,2024-02-10,WINTER20,Yes,Afternoon,GYM-92149,Showers are cold
+Renewed,45,49.99,4,10,0.1,161,177,0,0,0,F,Northside,Direct Debit,11/02/24,nan,Yes,Evening,GYM-33365,Showers are cold
+Cancelled,-5,59.99,7,4,1.7,179,192,2,2,0,F,Downtown,Cash,2024-02-13,nan,Yes,Evening,GYM-81060,Prefers morning yoga
+Cancelled,34,59.99,2,0,4.6,102,159,0,2,0,m,Northside,Cash,2024-02-14,WINTER20,No,Afternoon,GYM-51500,Prefers morning yoga
+Expired,43,49.99,1,9,3.0,208,292,2,0,0,m,Uptown,Cash,2024-02-16,nan,Yes,Morning,GYM-78410,Prefers morning yoga
+Expired,48,59.99,5,9,3.1,21,203,2,1,0,femal,Northside,Credit Card,17/02/24,nan,Yes,Night,GYM-68279,Prefers morning yoga
+Cancelled,40,79.99,3,5,0.3,4,240,0,0,0,Female,Uptown,Credit Card,2024-02-18,nan,No,Afternoon,GYM-82493,Requested new barbell sets
+Cancelled,35,49.99,3,3,0.9,138,114,0,1,0,F,Uptown,Cash,2024-02-20,nan,No,Evening,GYM-29076,Prefers morning yoga
+Expired,21,49.99,7,9,0.5,213,209,0,2,0,M,Northside,Cash,2024-02-21,nan,No,Night,GYM-21261,Prefers morning yoga
+Cancelled,24,59.99,4,1,0.8,159,221,2,0,0,m,Uptown,Direct Debit,23/02/24,nan,Yes,Morning,GYM-47992,Prefers morning yoga
+Renewed,31,,5,12,1.7,138,396,1,1,0,F,Uptown,Cash,2024-02-24,SUMMER50,No,Night,GYM-72062,Requested new barbell sets
+Renewed,28,49.99,5,8,0.9,144,181,1,0,0,F,Downtown,Credit Card,2024-02-26,WINTER20,No,Afternoon,GYM-37474,Requested new barbell sets
+Renewed,33,59.99,2,10,1.6,159,258,1,1,0,Male,Northside,Direct Debit,2024-02-27,nan,Yes,Evening,GYM-88247,Showers are cold
+Expired,35,79.99,4,6,1.2,82,39,0,0,0,F,Northside,Cash,29/02/24,nan,No,Evening,GYM-49534,Prefers morning yoga
+Cancelled,40,79.99,7,0,0.7,154,329,0,0,0,m,Northside,Cash,2024-03-01,nan,No,Evening,GYM-20090,Showers are cold
+Renewed,34,59.99,3,7,0.2,287,321,0,0,0,Female,Uptown,Cash,2024-03-03,nan,No,Night,GYM-73318,Showers are cold
+Cancelled,39,,6,2,4.4,280,59,0,6,0,F,Uptown,Direct Debit,2024-03-04,nan,Y,Afternoon,GYM-42771,Requested new barbell sets
+Cancelled,35,49.99,8,3,0.0,63,10,1,2,0,M,Uptown,Direct Debit,06/03/24,nan,No,Afternoon,GYM-88292,Requested new barbell sets
+Renewed,15,59.99,6,8,0.0,191,119,1,0,0,m,Northside,Direct Debit,2024-03-07,nan,Yes,Night,GYM-80295,Showers are cold
+Renewed,25,49.99,3,8,3.5,155,384,0,0,0,Female,Downtown,Cash,2024-03-08,nan,No,Night,GYM-47401,Showers are cold
+Cancelled,33,49.99,4,1,11.5,90,41,2,1,0,femal,Northside,Direct Debit,2024-03-10,nan,Yes,Morning,GYM-17361,Prefers morning yoga
+Renewed,22,59.99,2,6,2.6,141,189,0,1,0,Female,Northside,Direct Debit,11/03/24,nan,No,Evening,GYM-61559,Requested new barbell sets
+Cancelled,40,59.99,3,1,0.0,41,122,1,2,0,m,Northside,Direct Debit,2024-03-13,nan,Yes,Night,GYM-12567,Requested new barbell sets
+Renewed,50,49.99,5,5,0.5,248,188,0,0,0,femal,Downtown,Direct Debit,2024-03-14,nan,Yes,Evening,GYM-68440,Showers are cold
+Cancelled,47,79.99,4,1,7.1,294,251,1,0,0,Female,Northside,Credit Card,2024-03-16,nan,No,Morning,GYM-85713,Requested new barbell sets
+Cancelled,32,49.99,2,4,3.3,257,91,0,2,0,M,Downtown,Cash,17/03/24,nan,No,Afternoon,GYM-45917,Showers are cold
+Cancelled,49,,4,3,1.7,0,212,1,5,0,F,Downtown,Direct Debit,2024-03-19,WINTER20,No,Evening,GYM-34211,Showers are cold
+Cancelled,36,49.99,6,4,0.5,108,317,2,4,0,m,Northside,Credit Card,2024-03-20,nan,No,Night,GYM-76893,Requested new barbell sets
+Renewed,31,59.99,6,6,0.0,124,201,0,0,0,F,Northside,Credit Card,2024-03-22,nan,Yes,Night,GYM-98148,Prefers morning yoga
+Renewed,28,,8,11,0.0,63,267,2,0,0,F,Northside,Cash,23/03/24,nan,No,Morning,GYM-97535,Requested new barbell sets
+Renewed,31,49.99,0,5,1.9,205,154,0,0,0,Female,Uptown,Cash,2024-03-25,nan,No,Evening,GYM-36150,Showers are cold
+Cancelled,31,59.99,5,2,0.0,243,194,0,2,0,m,Downtown,Direct Debit,2024-03-26,nan,No,Afternoon,GYM-73507,Showers are cold
+Cancelled,36,49.99,2,2,10.1,77,27,1,3,0,F,Northside,Cash,2024-03-27,nan,No,Afternoon,GYM-11605,Prefers morning yoga
+Cancelled,36,59.99,5,2,0.4,110,193,1,1,0,Male,Downtown,Cash,29/03/24,nan,Yes,Night,GYM-82820,Showers are cold
+Renewed,35,49.99,1,5,2.5,141,222,2,0,0,M,Uptown,Cash,2024-03-30,nan,No,Morning,GYM-64127,Prefers morning yoga
+Renewed,39,49.99,2,6,0.3,215,106,2,0,0,femal,Uptown,Cash,2024-04-01,nan,No,Night,GYM-64721,Requested new barbell sets
+Renewed,46,79.99,3,8,1.6,15,148,0,2,0,Female,Northside,Direct Debit,2024-04-02,WINTER20,Yes,Night,GYM-59179,Prefers morning yoga
+Renewed,44,49.99,4,6,0.2,53,134,1,0,0,m,Downtown,Credit Card,04/04/24,SUMMER50,No,Night,GYM-56029,Showers are cold
+Cancelled,20,49.99,1,1,2.9,140,94,1,2,0,m,Uptown,Cash,2024-04-05,WINTER20,Yes,Night,GYM-27736,Showers are cold
+Renewed,9,59.99,3,6,1.8,78,269,1,0,0,Female,Uptown,Credit Card,2024-04-07,nan,Y,Morning,GYM-13734,Prefers morning yoga
+Renewed,44,79.99,5,7,0.2,148,373,1,0,0,F,Downtown,Credit Card,2024-04-08,SUMMER50,No,Night,GYM-17531,Requested new barbell sets
+Expired,21,49.99,3,11,3.8,126,125,3,1,0,Female,Uptown,Credit Card,10/04/24,nan,Yes,Evening,GYM-43186,Prefers morning yoga
+Renewed,32,49.99,5,7,1.6,157,358,2,0,0,m,Downtown,Cash,2024-04-11,nan,Yes,Night,GYM-55077,Showers are cold
+Renewed,23,49.99,7,9,5.1,278,328,1,1,0,Male,Northside,Cash,2024-04-13,nan,No,Night,GYM-51220,Requested new barbell sets
+Cancelled,16,59.99,3,5,5.0,37,317,1,2,0,F,Downtown,Direct Debit,2024-04-14,SUMMER50,No,Afternoon,GYM-94027,Prefers morning yoga
+Renewed,40,49.99,3,7,5.1,156,11,0,0,0,femal,Northside,Cash,15/04/24,nan,Y,Afternoon,GYM-53944,Prefers morning yoga
+Cancelled,42,59.99,6,2,0.2,287,293,1,0,0,Female,Downtown,Cash,2024-04-17,nan,Yes,Morning,GYM-72876,Prefers morning yoga
+Cancelled,29,,5,0,0.3,111,294,1,2,0,m,Uptown,Cash,2024-04-18,nan,Yes,Morning,GYM-81842,Showers are cold
+Expired,9,49.99,3,6,8.8,189,341,0,0,0,femal,Northside,Credit Card,2024-04-20,WINTER20,Y,Evening,GYM-58241,Showers are cold
+Renewed,29,49.99,3,6,1.3,105,3,0,0,0,m,Downtown,Direct Debit,21/04/24,nan,Yes,Night,GYM-73841,Showers are cold
+Expired,38,49.99,5,7,0.5,90,303,2,0,0,m,Northside,Credit Card,2024-04-23,nan,No,Afternoon,GYM-14291,Requested new barbell sets
+Renewed,20,49.99,3,7,2.9,48,390,2,0,0,Male,Downtown,Direct Debit,2024-04-24,nan,Yes,Evening,GYM-90496,Requested new barbell sets
+Renewed,36,79.99,1,6,0.6,160,315,1,0,0,F,Downtown,Cash,2024-04-26,nan,No,Evening,GYM-84632,Requested new barbell sets
+Renewed,34,49.99,5,13,2.6,3,167,0,0,0,Female,Northside,Cash,27/04/24,nan,Yes,Morning,GYM-50428,Showers are cold
+Expired,40,,7,6,3.6,197,7,0,0,0,F,Northside,Credit Card,2024-04-29,nan,No,Afternoon,GYM-22612,Requested new barbell sets
+Renewed,36,59.99,3,7,3.1,253,123,0,1,0,m,Northside,Credit Card,2024-04-30,nan,No,Night,GYM-67911,Requested new barbell sets
+Renewed,25,49.99,1,6,0.6,89,371,3,0,0,Male,Uptown,Credit Card,2024-05-02,nan,Y,Morning,GYM-92698,Prefers morning yoga
+Cancelled,46,59.99,4,0,1.0,19,313,3,2,0,femal,Downtown,Direct Debit,03/05/24,SUMMER50,Yes,Evening,GYM-68269,Showers are cold
+Renewed,33,49.99,4,2,1.1,76,184,0,0,0,Male,Downtown,Credit Card,2024-05-04,nan,Yes,Evening,GYM-98178,Prefers morning yoga
+Renewed,34,79.99,8,5,1.4,219,34,4,0,0,m,Northside,Cash,2024-05-06,nan,Yes,Afternoon,GYM-37814,Showers are cold
+Renewed,25,79.99,3,8,0.4,161,72,0,0,0,F,Downtown,Direct Debit,2024-05-07,WINTER20,No,Afternoon,GYM-66673,Showers are cold
+Renewed,30,59.99,4,5,1.2,114,370,2,0,0,femal,Downtown,Direct Debit,09/05/24,nan,No,Night,GYM-89986,Requested new barbell sets
+Renewed,26,79.99,4,5,1.4,93,12,1,0,0,F,Downtown,Cash,2024-05-10,nan,No,Afternoon,GYM-87207,Prefers morning yoga
+Renewed,33,49.99,8,8,1.5,132,38,2,0,0,Male,Northside,Credit Card,2024-05-12,SUMMER50,Yes,Afternoon,GYM-60767,Prefers morning yoga
+Cancelled,52,49.99,3,1,3.4,171,83,0,3,0,femal,Downtown,Credit Card,2024-05-13,nan,No,Morning,GYM-77385,Requested new barbell sets
+Renewed,21,59.99,2,6,1.5,113,20,0,0,0,M,Downtown,Cash,15/05/24,nan,Yes,Morning,GYM-57901,Prefers morning yoga
+Renewed,18,59.99,3,3,0.5,8,252,1,0,0,Male,Uptown,Cash,2024-05-16,nan,Yes,Night,GYM-44711,Prefers morning yoga
+Cancelled,49,49.99,5,2,2.2,298,302,0,2,0,femal,Uptown,Cash,2024-05-18,SUMMER50,No,Morning,GYM-61522,Showers are cold
+Renewed,32,49.99,5,8,3.2,259,257,1,0,0,Male,Northside,Cash,2024-05-19,nan,Yes,Night,GYM-50476,Prefers morning yoga
+Cancelled,28,49.99,6,2,0.8,169,299,0,2,0,Female,Downtown,Direct Debit,21/05/24,SUMMER50,No,Morning,GYM-22861,Prefers morning yoga
+Renewed,45,49.99,5,10,2.1,97,29,0,0,0,Male,Downtown,Direct Debit,2024-05-22,nan,No,Evening,GYM-34218,Showers are cold
+Renewed,28,49.99,5,13,0.3,168,127,0,0,0,M,Uptown,Credit Card,2024-05-23,nan,Y,Morning,GYM-77356,Requested new barbell sets
+Renewed,-5,59.99,6,9,0.8,217,310,1,1,0,femal,Northside,Direct Debit,2024-05-25,nan,No,Night,GYM-18632,Showers are cold
+Renewed,41,49.99,0,5,4.8,43,39,1,0,0,femal,Northside,Direct Debit,26/05/24,WINTER20,Yes,Morning,GYM-39884,Requested new barbell sets
+Renewed,30,49.99,3,5,4.8,260,96,1,0,0,Male,Downtown,Direct Debit,2024-05-28,nan,No,Afternoon,GYM-57388,Requested new barbell sets
+Renewed,56,59.99,1,6,1.7,284,223,2,0,0,F,Uptown,Cash,2024-05-29,nan,Yes,Evening,GYM-51063,Showers are cold
+Renewed,28,59.99,6,14,2.4,125,91,2,0,0,Female,Uptown,Direct Debit,2024-05-31,nan,Yes,Morning,GYM-76104,Showers are cold
+Renewed,42,79.99,1,10,3.8,259,279,3,0,0,Female,Uptown,Credit Card,01/06/24,nan,No,Evening,GYM-10310,Requested new barbell sets
+Renewed,37,,7,9,6.4,213,169,0,1,0,Male,Downtown,Direct Debit,2024-06-03,nan,No,Evening,GYM-44675,Showers are cold
+Renewed,48,49.99,3,9,1.3,199,283,1,0,0,Female,Downtown,Cash,2024-06-04,nan,Yes,Evening,GYM-19899,Showers are cold
+Renewed,50,79.99,3,3,1.6,235,221,2,0,0,Female,Downtown,Direct Debit,2024-06-06,nan,Yes,Evening,GYM-78991,Prefers morning yoga
+Renewed,35,59.99,3,4,1.1,135,116,1,0,0,Male,Uptown,Credit Card,07/06/24,nan,No,Afternoon,GYM-14502,Showers are cold
+Cancelled,27,49.99,3,2,0.1,115,247,1,4,0,M,Northside,Direct Debit,2024-06-09,nan,Yes,Afternoon,GYM-26964,Showers are cold
+Renewed,39,,4,11,1.1,154,360,2,0,0,femal,Downtown,Credit Card,2024-06-10,WINTER20,No,Night,GYM-61167,Prefers morning yoga
+Cancelled,28,,5,1,3.1,17,348,1,2,0,Male,Downtown,Cash,2024-06-11,nan,Yes,Night,GYM-66795,Requested new barbell sets
+Cancelled,55,49.99,4,3,3.3,3,353,2,4,0,F,Northside,Credit Card,13/06/24,nan,Yes,Night,GYM-82398,Requested new barbell sets
+Renewed,36,49.99,2,10,4.5,164,88,1,0,1,m,Northside,Credit Card,2024-06-14,nan,No,Night,GYM-14055,Showers are cold
+Cancelled,31,49.99,3,2,0.1,126,77,2,2,0,M,Uptown,Cash,2024-06-16,nan,No,Evening,GYM-28244,Showers are cold
+Expired,36,49.99,4,7,1.5,212,73,1,0,0,Male,Downtown,Credit Card,2024-06-17,nan,No,Evening,GYM-21876,Requested new barbell sets
+Renewed,21,49.99,2,13,0.2,47,391,0,1,0,M,Uptown,Direct Debit,19/06/24,nan,No,Evening,GYM-78827,Showers are cold
+Renewed,25,,3,5,0.4,45,13,1,0,0,m,Downtown,Direct Debit,2024-06-20,nan,Yes,Afternoon,GYM-37807,Requested new barbell sets
+Cancelled,47,49.99,0,1,4.6,45,44,1,2,0,Female,Uptown,Credit Card,2024-06-22,nan,No,Afternoon,GYM-78479,Requested new barbell sets
+Cancelled,28,,8,7,1.4,47,37,1,4,0,Female,Uptown,Direct Debit,2024-06-23,nan,Yes,Evening,GYM-22219,Prefers morning yoga
+Renewed,24,59.99,4,12,2.8,186,244,4,0,0,m,Northside,Direct Debit,25/06/24,nan,No,Evening,GYM-61663,Prefers morning yoga
+Renewed,40,59.99,3,11,0.1,119,61,0,1,0,Female,Downtown,Cash,2024-06-26,nan,No,Evening,GYM-36953,Showers are cold
+Renewed,46,79.99,8,9,1.1,131,95,2,2,0,M,Northside,Credit Card,2024-06-28,nan,Yes,Evening,GYM-65644,Showers are cold
+Renewed,42,49.99,5,6,2.2,18,322,0,0,0,Female,Northside,Direct Debit,2024-06-29,nan,Yes,Afternoon,GYM-33027,Requested new barbell sets
+Cancelled,44,49.99,3,3,0.3,274,251,3,1,0,m,Northside,Credit Card,30/06/24,nan,No,Morning,GYM-28274,Showers are cold
+Renewed,27,59.99,5,10,0.8,231,60,1,1,0,m,Downtown,Credit Card,2024-07-02,WINTER20,Yes,Night,GYM-58108,Prefers morning yoga
+Renewed,20,79.99,1,7,0.1,41,268,1,0,0,femal,Uptown,Direct Debit,2024-07-03,nan,Y,Night,GYM-84007,Requested new barbell sets
+Cancelled,50,59.99,4,1,2.1,91,118,2,4,0,m,Uptown,Cash,2024-07-05,nan,Yes,Morning,GYM-43622,Requested new barbell sets
+Renewed,31,49.99,3,9,7.1,260,86,1,0,0,F,Downtown,Cash,06/07/24,nan,Yes,Afternoon,GYM-80819,Showers are cold
+Renewed,32,79.99,1,10,3.5,47,82,0,0,0,M,Downtown,Credit Card,2024-07-08,nan,Yes,Afternoon,GYM-39676,Requested new barbell sets
+Cancelled,48,49.99,3,7,7.3,281,79,0,1,0,m,Uptown,Cash,2024-07-09,nan,Yes,Morning,GYM-26781,Requested new barbell sets
+Cancelled,40,79.99,4,1,3.7,73,227,3,2,0,femal,Uptown,Direct Debit,2024-07-11,nan,No,Night,GYM-90963,Requested new barbell sets
+Renewed,39,79.99,1,10,3.9,215,302,1,0,0,M,Northside,Direct Debit,12/07/24,nan,No,Night,GYM-39099,Prefers morning yoga
+Renewed,56,49.99,6,6,1.7,220,110,3,0,0,femal,Uptown,Cash,2024-07-14,nan,No,Morning,GYM-13503,Requested new barbell sets
+Renewed,28,59.99,2,12,1.5,108,369,1,0,0,F,Northside,Cash,2024-07-15,nan,Yes,Morning,GYM-42617,Prefers morning yoga
+Renewed,44,49.99,4,4,1.0,134,309,0,0,0,M,Uptown,Credit Card,2024-07-17,WINTER20,Y,Evening,GYM-30854,Requested new barbell sets
+Renewed,35,49.99,4,9,3.4,237,70,0,0,0,Male,Uptown,Cash,18/07/24,nan,Yes,Morning,GYM-87599,Showers are cold
+Renewed,37,59.99,6,7,0.4,154,327,1,0,0,F,Uptown,Credit Card,2024-07-19,nan,Y,Morning,GYM-33543,Showers are cold
+Renewed,50,59.99,3,3,0.1,55,24,2,0,0,F,Northside,Direct Debit,2024-07-21,nan,Yes,Night,GYM-62947,Requested new barbell sets
+Renewed,40,79.99,3,10,5.9,197,278,1,0,0,Female,Northside,Cash,2024-07-22,nan,No,Evening,GYM-43399,Showers are cold
+Renewed,40,59.99,2,5,0.0,37,201,1,0,0,m,Uptown,Credit Card,24/07/24,nan,No,Evening,GYM-91808,Prefers morning yoga
+Renewed,45,49.99,7,6,7.5,216,224,2,0,0,F,Northside,Credit Card,2024-07-25,nan,Yes,Night,GYM-22984,Requested new barbell sets
+Renewed,31,,2,9,2.6,230,266,1,1,0,M,Northside,Credit Card,2024-07-27,nan,Yes,Night,GYM-72886,Prefers morning yoga
+Renewed,26,79.99,4,4,0.8,256,282,1,0,0,Male,Northside,Credit Card,2024-07-28,nan,No,Afternoon,GYM-10927,Requested new barbell sets
+Renewed,24,49.99,5,8,2.4,208,116,0,1,0,M,Northside,Direct Debit,30/07/24,nan,Yes,Evening,GYM-73427,Prefers morning yoga
+Cancelled,15,79.99,2,2,3.4,200,66,2,3,0,M,Downtown,Cash,2024-07-31,nan,No,Morning,GYM-91623,Showers are cold
+Cancelled,55,49.99,5,1,0.6,136,46,1,1,0,Male,Northside,Credit Card,2024-08-02,nan,No,Evening,GYM-69371,Prefers morning yoga
+Cancelled,23,79.99,5,2,2.9,127,240,1,1,0,femal,Uptown,Cash,2024-08-03,nan,No,Afternoon,GYM-27445,Prefers morning yoga
+Cancelled,32,49.99,3,3,3.3,52,177,1,2,0,Female,Northside,Cash,05/08/24,nan,Y,Morning,GYM-25286,Showers are cold
+Renewed,32,49.99,4,4,0.6,83,7,1,0,0,m,Uptown,Direct Debit,2024-08-06,nan,Yes,Afternoon,GYM-78897,Showers are cold
+Renewed,38,49.99,4,9,0.1,208,182,0,1,0,F,Northside,Cash,2024-08-07,nan,Yes,Night,GYM-31121,Requested new barbell sets
+Renewed,43,59.99,2,5,0.5,284,76,0,0,0,m,Uptown,Direct Debit,2024-08-09,nan,Yes,Afternoon,GYM-60851,Requested new barbell sets
+Cancelled,43,49.99,3,2,0.4,35,66,1,4,0,Female,Downtown,Direct Debit,10/08/24,nan,No,Night,GYM-81237,Prefers morning yoga
+Cancelled,29,49.99,3,3,0.1,214,147,3,2,0,femal,Uptown,Credit Card,2024-08-12,nan,Y,Afternoon,GYM-26964,Requested new barbell sets
+Renewed,33,59.99,3,6,2.6,26,172,1,0,0,Male,Northside,Direct Debit,2024-08-13,nan,Y,Night,GYM-14200,Prefers morning yoga
+Renewed,37,79.99,6,5,1.0,145,34,2,1,0,m,Northside,Credit Card,2024-08-15,WINTER20,Y,Evening,GYM-76415,Requested new barbell sets
+Renewed,32,49.99,1,9,4.3,17,76,0,0,0,M,Uptown,Direct Debit,16/08/24,nan,No,Night,GYM-77018,Showers are cold
+Renewed,51,,2,10,0.6,117,279,1,0,0,F,Downtown,Direct Debit,2024-08-18,nan,Y,Evening,GYM-20487,Showers are cold
+Cancelled,39,49.99,3,2,1.2,136,184,1,3,0,F,Northside,Cash,2024-08-19,nan,Yes,Night,GYM-17070,Showers are cold
+Cancelled,42,49.99,1,2,2.0,66,54,3,2,0,femal,Northside,Credit Card,2024-08-21,nan,Y,Afternoon,GYM-81988,Showers are cold
+Renewed,41,79.99,6,8,4.2,29,392,1,1,0,Female,Uptown,Cash,22/08/24,nan,No,Afternoon,GYM-38020,Prefers morning yoga
+Expired,46,79.99,4,10,1.5,72,93,1,0,0,Female,Uptown,Direct Debit,2024-08-24,nan,Yes,Afternoon,GYM-81516,Showers are cold
+Cancelled,36,59.99,3,5,0.9,122,143,0,0,0,Male,Downtown,Credit Card,2024-08-25,nan,Yes,Night,GYM-84336,Showers are cold
+Renewed,22,49.99,9,11,4.0,227,246,2,0,0,Female,Uptown,Direct Debit,2024-08-26,nan,Yes,Night,GYM-53952,Showers are cold
+Renewed,38,,5,7,0.7,272,199,1,0,0,m,Northside,Direct Debit,28/08/24,nan,No,Afternoon,GYM-94506,Showers are cold
+Renewed,28,59.99,6,9,0.2,245,235,0,0,0,F,Uptown,Cash,2024-08-29,nan,No,Evening,GYM-77655,Requested new barbell sets
+Renewed,29,79.99,5,8,1.2,38,313,1,0,0,Male,Downtown,Credit Card,2024-08-31,WINTER20,Yes,Night,GYM-72959,Prefers morning yoga
+Renewed,40,59.99,3,6,3.1,169,319,0,0,0,Female,Downtown,Credit Card,2024-09-01,nan,No,Evening,GYM-34709,Prefers morning yoga
+Renewed,47,59.99,4,11,0.1,101,219,2,0,0,M,Northside,Credit Card,03/09/24,nan,Yes,Night,GYM-78781,Requested new barbell sets
+Renewed,35,59.99,5,7,1.8,293,331,0,0,0,F,Uptown,Direct Debit,2024-09-04,nan,No,Afternoon,GYM-36392,Requested new barbell sets
+Renewed,38,49.99,7,9,1.8,242,370,1,1,0,Male,Northside,Credit Card,2024-09-06,nan,No,Evening,GYM-66929,Prefers morning yoga
+Cancelled,52,79.99,1,1,5.3,156,215,1,2,0,F,Downtown,Direct Debit,2024-09-07,nan,Y,Morning,GYM-47256,Prefers morning yoga
+Renewed,37,59.99,6,5,0.7,264,48,2,0,0,m,Downtown,Direct Debit,09/09/24,nan,Yes,Night,GYM-41715,Requested new barbell sets
+Renewed,61,59.99,3,11,0.7,256,284,0,1,0,femal,Uptown,Direct Debit,2024-09-10,nan,Y,Evening,GYM-16546,Showers are cold
+Renewed,40,49.99,5,6,1.2,122,117,0,0,0,Female,Uptown,Credit Card,2024-09-12,nan,Yes,Afternoon,GYM-11136,Prefers morning yoga
+Expired,17,59.99,3,10,0.9,46,81,0,0,0,femal,Northside,Cash,2024-09-13,nan,No,Evening,GYM-98128,Requested new barbell sets
+Renewed,42,59.99,5,8,2.7,9,262,4,0,0,Female,Downtown,Direct Debit,14/09/24,nan,No,Morning,GYM-28135,Showers are cold
+Renewed,38,49.99,4,13,2.1,143,76,0,0,0,Female,Northside,Cash,2024-09-16,WINTER20,No,Morning,GYM-80497,Showers are cold
+Expired,47,49.99,6,9,2.8,298,210,0,0,0,M,Northside,Credit Card,2024-09-17,WINTER20,Y,Evening,GYM-49312,Requested new barbell sets
+Cancelled,41,59.99,4,5,3.4,151,121,1,3,0,m,Northside,Credit Card,2024-09-19,nan,No,Morning,GYM-50355,Prefers morning yoga
+Cancelled,33,59.99,6,3,5.1,135,324,3,2,0,M,Downtown,Credit Card,20/09/24,nan,Y,Night,GYM-89756,Prefers morning yoga
+Renewed,22,59.99,5,11,1.1,74,89,0,0,0,m,Uptown,Credit Card,2024-09-22,nan,Yes,Morning,GYM-25448,Showers are cold
+Renewed,32,49.99,2,7,8.4,25,257,2,0,0,m,Downtown,Credit Card,2024-09-23,nan,Yes,Evening,GYM-53851,Requested new barbell sets
+Cancelled,26,59.99,1,0,0.5,6,160,2,5,0,m,Northside,Cash,2024-09-25,nan,No,Evening,GYM-90532,Showers are cold
+Expired,29,49.99,1,11,2.5,78,175,0,1,0,Female,Downtown,Credit Card,26/09/24,nan,Yes,Night,GYM-49268,Showers are cold
+Cancelled,40,49.99,3,2,1.5,14,292,2,0,0,Female,Northside,Credit Card,2024-09-28,nan,Y,Night,GYM-47741,Showers are cold
+Cancelled,51,49.99,5,0,3.4,206,88,3,7,0,Female,Northside,Credit Card,2024-09-29,nan,No,Evening,GYM-27135,Requested new barbell sets
+Renewed,38,49.99,3,6,1.3,88,126,1,0,0,M,Uptown,Credit Card,2024-10-01,nan,No,Afternoon,GYM-10748,Prefers morning yoga
+Cancelled,23,49.99,5,1,3.1,96,358,2,1,0,Male,Northside,Credit Card,02/10/24,nan,No,Night,GYM-92186,Showers are cold
+Renewed,39,49.99,4,7,5.3,215,285,2,0,0,femal,Downtown,Direct Debit,2024-10-03,nan,No,Afternoon,GYM-95741,Prefers morning yoga
+Renewed,46,49.99,3,13,2.6,258,296,1,0,1,m,Uptown,Direct Debit,2024-10-05,nan,Yes,Morning,GYM-96154,Prefers morning yoga
+Renewed,28,49.99,6,7,3.0,286,259,0,2,0,M,Uptown,Cash,2024-10-06,nan,No,Morning,GYM-52148,Requested new barbell sets
+Renewed,33,59.99,5,9,0.1,74,338,0,0,0,Female,Uptown,Credit Card,08/10/24,nan,No,Night,GYM-32297,Prefers morning yoga
+Renewed,35,49.99,6,8,0.5,241,243,3,1,0,femal,Uptown,Cash,2024-10-09,nan,Y,Night,GYM-73160,Prefers morning yoga
+Renewed,27,49.99,2,11,7.3,16,110,1,0,0,Female,Uptown,Cash,2024-10-11,nan,Yes,Evening,GYM-49577,Showers are cold
+Cancelled,-5,79.99,5,1,2.4,176,23,1,4,0,Male,Downtown,Credit Card,2024-10-12,nan,No,Morning,GYM-45945,Requested new barbell sets
+Renewed,33,49.99,6,7,1.6,258,49,0,0,0,Female,Northside,Credit Card,14/10/24,SUMMER50,Yes,Night,GYM-62372,Requested new barbell sets
+Cancelled,39,59.99,3,1,0.9,122,36,1,1,0,m,Northside,Direct Debit,2024-10-15,nan,Yes,Evening,GYM-64681,Showers are cold
+Renewed,26,49.99,5,9,0.1,110,180,2,0,0,F,Northside,Credit Card,2024-10-17,nan,No,Afternoon,GYM-37406,Showers are cold
+Renewed,30,49.99,5,8,0.9,255,252,2,0,0,femal,Northside,Direct Debit,2024-10-18,nan,Yes,Evening,GYM-27086,Prefers morning yoga
+Renewed,42,59.99,6,5,1.4,233,24,2,1,0,Female,Uptown,Cash,20/10/24,nan,No,Morning,GYM-19890,Prefers morning yoga
+Renewed,31,,3,7,0.5,39,348,1,0,0,Male,Northside,Cash,2024-10-21,nan,No,Evening,GYM-42968,Requested new barbell sets
+Renewed,52,79.99,6,6,0.4,121,124,0,0,0,femal,Northside,Direct Debit,2024-10-22,nan,Yes,Evening,GYM-72057,Requested new barbell sets
+Renewed,31,59.99,11,11,1.4,214,30,0,0,0,F,Uptown,Direct Debit,2024-10-24,nan,No,Night,GYM-38374,Prefers morning yoga
+Renewed,-5,79.99,5,12,1.8,295,236,0,0,0,femal,Uptown,Credit Card,25/10/24,nan,Yes,Evening,GYM-26195,Showers are cold
+Expired,44,49.99,6,10,0.5,285,226,0,1,0,m,Uptown,Direct Debit,2024-10-27,nan,No,Morning,GYM-57323,Requested new barbell sets
+Renewed,20,49.99,5,7,1.8,280,347,0,0,0,m,Northside,Direct Debit,2024-10-28,nan,Yes,Evening,GYM-88680,Showers are cold
+Cancelled,17,49.99,5,4,4.6,6,37,1,0,0,m,Uptown,Credit Card,2024-10-30,nan,Yes,Evening,GYM-46309,Prefers morning yoga
+Renewed,19,49.99,2,10,1.3,91,382,0,0,0,Male,Uptown,Cash,31/10/24,nan,No,Morning,GYM-89576,Requested new barbell sets
+Cancelled,47,59.99,10,1,3.9,122,57,1,0,0,F,Downtown,Direct Debit,2024-11-02,nan,Y,Afternoon,GYM-82691,Requested new barbell sets
+Cancelled,29,59.99,2,3,5.2,95,235,0,2,0,m,Downtown,Credit Card,2024-11-03,WINTER20,No,Afternoon,GYM-85737,Prefers morning yoga
+Cancelled,60,49.99,2,1,0.2,0,180,1,1,0,Female,Northside,Credit Card,2024-11-05,nan,Yes,Morning,GYM-13505,Prefers morning yoga
+Renewed,29,79.99,2,4,0.2,90,113,0,0,0,F,Uptown,Direct Debit,06/11/24,nan,Yes,Afternoon,GYM-70444,Showers are cold
+Renewed,36,79.99,3,6,1.3,6,305,1,0,0,m,Northside,Cash,2024-11-08,nan,No,Evening,GYM-91645,Showers are cold
+Renewed,50,49.99,3,12,1.8,119,131,2,1,0,F,Downtown,Credit Card,2024-11-09,nan,No,Night,GYM-46927,Prefers morning yoga
+Expired,55,49.99,3,8,1.1,128,347,1,1,0,femal,Downtown,Direct Debit,2024-11-10,nan,Yes,Morning,GYM-17080,Prefers morning yoga
+Cancelled,55,49.99,3,4,0.8,178,179,1,1,0,Female,Uptown,Cash,12/11/24,nan,No,Evening,GYM-23407,Prefers morning yoga
+Expired,47,49.99,7,6,2.0,97,77,1,0,0,M,Northside,Direct Debit,2024-11-13,nan,Yes,Night,GYM-38313,Requested new barbell sets
+Renewed,45,49.99,5,13,0.0,42,219,3,1,0,m,Downtown,Credit Card,2024-11-15,nan,Yes,Evening,GYM-98603,Prefers morning yoga
+Cancelled,40,59.99,6,0,6.9,182,141,0,1,0,Female,Uptown,Credit Card,2024-11-16,nan,No,Morning,GYM-82189,Requested new barbell sets
+Expired,42,49.99,1,15,0.5,184,384,2,0,0,Male,Northside,Credit Card,18/11/24,nan,Yes,Evening,GYM-72803,Prefers morning yoga
+Renewed,29,49.99,4,12,5.0,52,42,3,0,0,femal,Uptown,Direct Debit,2024-11-19,nan,Yes,Morning,GYM-55306,Requested new barbell sets
+Renewed,26,79.99,3,15,0.2,227,117,1,0,0,m,Uptown,Credit Card,2024-11-21,nan,Yes,Evening,GYM-55094,Showers are cold
+Cancelled,34,59.99,7,2,0.5,160,58,2,3,0,M,Downtown,Direct Debit,2024-11-22,nan,No,Night,GYM-26452,Showers are cold
+Cancelled,33,79.99,4,1,0.5,234,60,2,2,0,femal,Northside,Cash,24/11/24,WINTER20,Yes,Night,GYM-21383,Requested new barbell sets
+Cancelled,30,49.99,3,5,11.1,199,40,2,1,0,Female,Downtown,Cash,2024-11-25,nan,No,Night,GYM-68453,Showers are cold
+Renewed,41,49.99,7,6,0.0,0,273,1,0,0,femal,Northside,Cash,2024-11-27,nan,Y,Afternoon,GYM-65472,Showers are cold
+Cancelled,999,59.99,1,1,2.0,13,187,2,0,0,Female,Northside,Cash,2024-11-28,nan,Yes,Evening,GYM-13018,Requested new barbell sets
+Renewed,35,49.99,4,9,4.1,212,334,1,0,0,F,Uptown,Credit Card,29/11/24,nan,No,Evening,GYM-12653,Prefers morning yoga
+Renewed,49,49.99,3,5,2.2,276,186,0,0,0,m,Uptown,Credit Card,2024-12-01,nan,No,Night,GYM-73568,Prefers morning yoga
+Renewed,23,59.99,5,10,0.9,33,227,1,0,0,M,Northside,Direct Debit,2024-12-02,nan,Yes,Morning,GYM-34916,Requested new barbell sets
+Cancelled,33,,2,2,6.4,269,163,0,1,0,Male,Uptown,Cash,2024-12-04,nan,Yes,Afternoon,GYM-18612,Showers are cold
+Cancelled,27,,4,1,4.5,167,285,0,2,0,F,Downtown,Cash,05/12/24,nan,Yes,Evening,GYM-94195,Prefers morning yoga
+Renewed,16,49.99,4,10,1.1,169,101,1,0,0,m,Northside,Direct Debit,2024-12-07,nan,No,Evening,GYM-78957,Prefers morning yoga
+Renewed,34,49.99,4,10,1.7,81,266,3,0,0,M,Downtown,Direct Debit,2024-12-08,nan,No,Afternoon,GYM-91535,Showers are cold
+Cancelled,33,49.99,6,4,6.9,136,123,1,1,0,F,Uptown,Direct Debit,2024-12-10,nan,Yes,Afternoon,GYM-32313,Requested new barbell sets
+Renewed,50,49.99,8,11,8.1,232,152,2,0,0,M,Northside,Direct Debit,11/12/24,nan,No,Night,GYM-64917,Requested new barbell sets
+Cancelled,41,49.99,5,4,1.2,114,178,0,1,0,femal,Uptown,Cash,2024-12-13,nan,No,Afternoon,GYM-90007,Prefers morning yoga
+Renewed,24,49.99,3,4,3.8,251,65,0,0,0,M,Downtown,Credit Card,2024-12-14,nan,Yes,Night,GYM-44855,Requested new barbell sets
+Renewed,53,79.99,4,12,0.7,288,98,0,0,0,F,Northside,Cash,2024-12-16,nan,No,Afternoon,GYM-50585,Showers are cold
+Renewed,47,59.99,4,7,0.9,48,23,2,0,0,F,Uptown,Direct Debit,17/12/24,nan,Yes,Afternoon,GYM-37934,Requested new barbell sets
+Renewed,40,59.99,4,6,0.4,3,332,3,0,0,m,Downtown,Credit Card,2024-12-18,nan,No,Evening,GYM-34569,Requested new barbell sets
+Cancelled,32,49.99,7,1,0.5,175,248,1,2,0,F,Downtown,Cash,2024-12-20,nan,Yes,Night,GYM-30253,Requested new barbell sets
+Renewed,25,49.99,5,10,2.1,271,164,1,1,0,femal,Uptown,Direct Debit,2024-12-21,nan,No,Afternoon,GYM-64868,Requested new barbell sets
+Renewed,31,49.99,5,9,1.4,25,383,1,1,0,m,Northside,Credit Card,23/12/24,nan,Yes,Afternoon,GYM-36019,Showers are cold
+Cancelled,45,49.99,6,4,0.5,69,93,2,0,0,M,Uptown,Credit Card,2024-12-24,nan,No,Evening,GYM-17996,Requested new barbell sets
+Renewed,53,49.99,2,11,1.0,292,342,1,0,0,F,Northside,Direct Debit,2024-12-26,nan,Yes,Morning,GYM-40437,Prefers morning yoga
+Renewed,50,59.99,7,13,0.9,233,123,0,0,0,m,Downtown,Credit Card,2024-12-27,nan,No,Evening,GYM-74802,Requested new barbell sets
+Expired,30,59.99,3,9,8.7,230,301,1,2,0,m,Downtown,Cash,29/12/24,nan,Yes,Night,GYM-29771,Prefers morning yoga
+Cancelled,23,59.99,5,1,3.8,262,155,0,1,0,Male,Downtown,Cash,2024-12-30,nan,Yes,Morning,GYM-69167,Showers are cold
+Renewed,36,49.99,2,10,1.0,285,348,2,0,0,m,Uptown,Cash,2025-01-01,nan,Yes,Afternoon,GYM-60009,Requested new barbell sets
+Expired,17,,4,7,4.9,73,248,1,0,0,m,Uptown,Credit Card,2025-01-02,WINTER20,Yes,Night,GYM-10131,Prefers morning yoga
+Cancelled,38,49.99,6,0,0.8,120,270,0,1,0,Male,Uptown,Credit Card,04/01/25,nan,No,Morning,GYM-29299,Requested new barbell sets
+Renewed,33,49.99,6,5,2.2,5,57,1,1,0,Female,Downtown,Direct Debit,2025-01-05,nan,Y,Night,GYM-88564,Requested new barbell sets
+Renewed,30,49.99,0,8,6.8,23,194,1,0,0,femal,Northside,Direct Debit,2025-01-06,nan,No,Evening,GYM-44799,Prefers morning yoga
+Cancelled,19,59.99,0,2,1.0,193,200,3,3,0,F,Uptown,Credit Card,2025-01-08,nan,No,Morning,GYM-44693,Showers are cold
+Cancelled,40,,2,0,2.3,167,71,2,2,0,Male,Uptown,Cash,09/01/25,nan,Yes,Morning,GYM-44769,Showers are cold
+Renewed,29,49.99,4,6,0.7,209,246,1,0,0,m,Uptown,Credit Card,2025-01-11,WINTER20,Yes,Morning,GYM-14377,Showers are cold
+Cancelled,23,79.99,3,6,0.6,132,97,1,3,0,m,Downtown,Cash,2025-01-12,nan,No,Afternoon,GYM-33019,Showers are cold
+Cancelled,6,79.99,4,3,1.7,291,328,0,2,0,F,Northside,Direct Debit,2025-01-14,nan,Y,Evening,GYM-36903,Showers are cold
+Renewed,34,49.99,3,9,7.8,173,80,1,0,0,femal,Northside,Credit Card,15/01/25,nan,No,Morning,GYM-21763,Showers are cold
+Renewed,52,49.99,8,11,1.2,150,64,1,0,0,M,Northside,Credit Card,2025-01-17,nan,Yes,Night,GYM-15494,Requested new barbell sets
+Renewed,51,,6,13,5.5,87,4,1,0,0,Male,Uptown,Credit Card,2025-01-18,nan,Yes,Afternoon,GYM-21563,Requested new barbell sets
+Cancelled,30,79.99,3,2,4.9,265,283,0,3,0,Female,Uptown,Cash,2025-01-20,nan,Yes,Evening,GYM-43433,Prefers morning yoga
+Renewed,28,49.99,0,11,0.6,69,293,1,1,0,F,Northside,Direct Debit,21/01/25,nan,Yes,Evening,GYM-39994,Showers are cold
+Cancelled,39,59.99,2,2,1.0,204,80,2,2,0,F,Downtown,Cash,2025-01-23,nan,No,Evening,GYM-98618,Showers are cold
+Cancelled,25,49.99,3,2,2.1,31,86,1,3,0,Male,Northside,Direct Debit,2025-01-24,nan,Yes,Evening,GYM-72573,Showers are cold
+Cancelled,38,59.99,6,2,1.5,42,292,0,2,0,m,Uptown,Cash,2025-01-25,nan,No,Afternoon,GYM-28030,Prefers morning yoga
+Renewed,42,49.99,3,8,0.2,117,280,0,1,0,m,Northside,Direct Debit,27/01/25,nan,Y,Evening,GYM-88294,Requested new barbell sets
+Cancelled,47,59.99,4,2,10.1,14,196,1,3,0,Female,Northside,Cash,2025-01-28,nan,No,Night,GYM-80043,Requested new barbell sets
+Renewed,33,79.99,9,7,2.8,114,251,2,0,0,Male,Northside,Credit Card,2025-01-30,nan,Y,Night,GYM-71952,Showers are cold
+Cancelled,32,79.99,7,2,1.2,19,82,2,4,0,F,Downtown,Cash,2025-01-31,nan,Yes,Night,GYM-64751,Requested new barbell sets
+Renewed,26,79.99,3,15,1.9,177,26,0,0,0,Male,Uptown,Credit Card,02/02/25,nan,Y,Morning,GYM-11163,Requested new barbell sets
+Renewed,26,49.99,2,8,0.2,261,332,1,0,0,M,Uptown,Credit Card,2025-02-03,nan,Yes,Evening,GYM-78461,Requested new barbell sets
+Cancelled,32,59.99,2,2,1.4,78,181,1,3,0,F,Northside,Credit Card,2025-02-05,nan,No,Night,GYM-33217,Showers are cold
+Renewed,38,49.99,2,10,5.3,119,134,0,0,0,Female,Uptown,Cash,2025-02-06,nan,Yes,Evening,GYM-34055,Requested new barbell sets
+Renewed,44,49.99,4,7,4.5,25,89,1,0,0,Female,Downtown,Credit Card,08/02/25,nan,No,Afternoon,GYM-89931,Requested new barbell sets
+Cancelled,26,59.99,6,4,0.8,21,205,1,1,0,F,Northside,Cash,2025-02-09,nan,Yes,Night,GYM-89030,Prefers morning yoga
+Cancelled,49,49.99,3,1,1.5,200,26,2,3,0,m,Downtown,Direct Debit,2025-02-11,nan,Yes,Morning,GYM-39090,Showers are cold
+Cancelled,32,59.99,3,1,2.4,63,377,0,2,0,F,Northside,Cash,2025-02-12,nan,Y,Morning,GYM-47820,Requested new barbell sets
+Cancelled,34,,5,1,0.8,213,58,1,1,0,F,Northside,Cash,13/02/25,nan,No,Afternoon,GYM-22190,Showers are cold
+Renewed,27,49.99,5,10,0.1,292,71,1,0,0,M,Northside,Cash,2025-02-15,nan,No,Night,GYM-68168,Requested new barbell sets
+Renewed,10,59.99,5,9,1.4,77,226,0,0,0,F,Downtown,Direct Debit,2025-02-16,nan,No,Afternoon,GYM-55963,Showers are cold
+Renewed,43,49.99,7,8,1.8,215,90,0,1,0,femal,Uptown,Direct Debit,2025-02-18,nan,No,Morning,GYM-84460,Requested new barbell sets
+Renewed,42,49.99,3,4,0.0,223,67,2,0,0,femal,Uptown,Direct Debit,19/02/25,nan,Yes,Morning,GYM-24212,Requested new barbell sets
+Expired,32,49.99,2,8,0.2,27,361,2,1,0,Male,Uptown,Credit Card,2025-02-21,nan,No,Evening,GYM-63638,Prefers morning yoga
+Cancelled,35,79.99,1,2,0.5,200,259,0,2,0,Male,Uptown,Cash,2025-02-22,nan,No,Afternoon,GYM-50079,Showers are cold
+Renewed,40,79.99,6,4,0.9,66,145,0,0,0,Female,Downtown,Cash,2025-02-24,nan,No,Morning,GYM-66031,Requested new barbell sets
+Renewed,19,79.99,4,8,1.6,125,62,3,0,0,m,Uptown,Credit Card,25/02/25,nan,Y,Night,GYM-68931,Prefers morning yoga
+Expired,29,79.99,4,5,0.7,194,342,2,0,0,Female,Uptown,Credit Card,2025-02-27,nan,No,Night,GYM-88484,Prefers morning yoga
+Renewed,42,,6,5,0.6,173,179,0,0,0,M,Northside,Cash,2025-02-28,nan,No,Morning,GYM-42794,Showers are cold
+Cancelled,22,49.99,1,3,4.1,86,110,2,3,0,F,Downtown,Credit Card,2025-03-02,nan,Y,Afternoon,GYM-99831,Showers are cold
+Renewed,37,,4,10,0.3,153,190,2,0,0,Female,Northside,Credit Card,03/03/25,nan,Y,Afternoon,GYM-94590,Prefers morning yoga
+Cancelled,21,49.99,3,3,1.4,209,395,2,0,0,F,Uptown,Direct Debit,2025-03-04,nan,Y,Night,GYM-81163,Showers are cold
+Renewed,39,49.99,4,9,6.1,12,391,0,0,0,Female,Northside,Credit Card,2025-03-06,nan,No,Morning,GYM-81446,Showers are cold
+Cancelled,34,49.99,4,4,2.0,163,245,1,2,0,F,Uptown,Credit Card,2025-03-07,nan,Yes,Night,GYM-59278,Showers are cold
+Expired,18,59.99,4,8,2.5,254,277,2,0,0,Female,Northside,Cash,09/03/25,nan,Yes,Afternoon,GYM-93399,Requested new barbell sets
+Cancelled,46,59.99,2,2,1.1,63,346,1,1,0,femal,Downtown,Credit Card,2025-03-10,nan,Yes,Morning,GYM-56474,Showers are cold
+Cancelled,27,49.99,2,2,0.0,75,371,0,4,0,femal,Northside,Credit Card,2025-03-12,nan,No,Night,GYM-34894,Showers are cold
+Expired,26,49.99,7,4,2.1,21,296,2,2,0,femal,Northside,Credit Card,2025-03-13,nan,Yes,Morning,GYM-28872,Prefers morning yoga
+Cancelled,37,59.99,7,2,2.0,59,336,1,5,0,Male,Northside,Direct Debit,15/03/25,nan,No,Evening,GYM-55749,Prefers morning yoga
+Renewed,46,59.99,2,12,0.2,55,122,0,0,0,M,Northside,Cash,2025-03-16,nan,Y,Night,GYM-22406,Prefers morning yoga
+Cancelled,24,49.99,5,3,1.2,167,56,0,2,0,Female,Uptown,Direct Debit,2025-03-18,SUMMER50,Y,Night,GYM-80409,Showers are cold
+Cancelled,35,59.99,3,3,4.9,204,159,1,2,0,Male,Northside,Credit Card,2025-03-19,nan,Yes,Evening,GYM-90561,Showers are cold
+Renewed,39,49.99,4,4,0.5,258,126,0,0,0,m,Downtown,Cash,21/03/25,WINTER20,Yes,Afternoon,GYM-38671,Prefers morning yoga
+Cancelled,41,49.99,1,3,1.2,190,224,1,3,0,Female,Northside,Cash,2025-03-22,nan,No,Night,GYM-81637,Prefers morning yoga
+Expired,36,59.99,3,8,1.2,54,94,0,1,0,F,Downtown,Credit Card,2025-03-23,nan,No,Night,GYM-97197,Requested new barbell sets
+Expired,31,59.99,5,12,3.3,283,310,1,0,0,M,Northside,Direct Debit,2025-03-25,nan,No,Afternoon,GYM-26182,Requested new barbell sets
+Renewed,26,49.99,2,9,3.5,263,5,1,0,0,Male,Uptown,Credit Card,26/03/25,nan,No,Morning,GYM-48604,Requested new barbell sets
+Renewed,35,59.99,4,4,2.8,258,264,1,0,0,Male,Downtown,Direct Debit,2025-03-28,nan,No,Evening,GYM-71525,Showers are cold
+Expired,24,59.99,5,7,0.9,88,233,3,0,0,M,Downtown,Credit Card,2025-03-29,nan,Yes,Afternoon,GYM-73365,Showers are cold
+Cancelled,5,59.99,2,0,0.1,221,287,1,1,0,Female,Northside,Cash,2025-03-31,nan,No,Morning,GYM-45176,Prefers morning yoga
+Renewed,39,59.99,5,10,0.9,88,383,2,1,0,F,Uptown,Cash,01/04/25,nan,No,Evening,GYM-12839,Requested new barbell sets
+Expired,44,59.99,4,10,2.3,58,15,3,0,0,m,Uptown,Direct Debit,2025-04-03,nan,Yes,Morning,GYM-79990,Showers are cold
+Cancelled,11,49.99,3,1,2.4,151,139,0,2,0,Female,Downtown,Credit Card,2025-04-04,nan,No,Night,GYM-24214,Requested new barbell sets
+Renewed,24,49.99,4,11,6.7,27,296,0,1,0,M,Northside,Direct Debit,2025-04-06,nan,Y,Evening,GYM-33938,Requested new barbell sets
+Cancelled,41,49.99,5,1,1.2,224,194,1,2,0,Female,Uptown,Cash,07/04/25,nan,Yes,Morning,GYM-82950,Showers are cold
+Renewed,55,49.99,5,6,2.0,50,185,1,0,0,Female,Uptown,Cash,2025-04-09,nan,Y,Evening,GYM-73413,Requested new barbell sets
+Renewed,35,59.99,6,9,1.5,262,392,0,1,0,M,Uptown,Direct Debit,2025-04-10,WINTER20,No,Morning,GYM-44693,Prefers morning yoga
+Renewed,27,,0,16,0.3,278,124,2,0,0,M,Northside,Direct Debit,2025-04-11,nan,No,Morning,GYM-25457,Prefers morning yoga
+Cancelled,33,49.99,3,4,1.2,45,16,1,0,0,m,Northside,Direct Debit,13/04/25,nan,Yes,Night,GYM-48862,Showers are cold
+Renewed,48,49.99,4,7,1.6,105,365,0,0,0,M,Downtown,Direct Debit,2025-04-14,nan,Yes,Afternoon,GYM-99553,Requested new barbell sets
+Renewed,28,49.99,2,3,6.0,283,388,3,0,0,M,Northside,Direct Debit,2025-04-16,nan,Yes,Evening,GYM-11976,Prefers morning yoga
+Renewed,27,49.99,6,3,0.9,23,25,1,0,0,M,Uptown,Credit Card,2025-04-17,WINTER20,Yes,Night,GYM-63781,Requested new barbell sets
+Renewed,30,59.99,3,6,7.8,6,212,0,0,0,Male,Downtown,Direct Debit,19/04/25,nan,Yes,Evening,GYM-61234,Prefers morning yoga
+Expired,25,49.99,5,4,1.6,2,384,0,0,0,M,Northside,Direct Debit,2025-04-20,nan,No,Afternoon,GYM-20921,Prefers morning yoga
+Renewed,36,59.99,1,15,0.6,257,0,1,0,0,M,Uptown,Cash,2025-04-22,nan,No,Night,GYM-68507,Requested new barbell sets
+Renewed,51,79.99,2,11,0.4,262,290,0,0,0,M,Uptown,Cash,2025-04-23,SUMMER50,Y,Afternoon,GYM-72563,Showers are cold
+Cancelled,38,49.99,3,1,0.3,120,264,1,1,0,m,Downtown,Credit Card,25/04/25,nan,No,Night,GYM-41709,Showers are cold
+Renewed,32,49.99,3,5,1.2,207,342,0,0,0,Female,Downtown,Direct Debit,2025-04-26,nan,Yes,Night,GYM-13444,Showers are cold
+Renewed,32,49.99,3,13,0.0,20,37,0,1,0,M,Northside,Direct Debit,2025-04-28,nan,No,Night,GYM-43526,Requested new barbell sets
+Renewed,19,59.99,3,8,1.2,139,232,0,0,0,M,Northside,Cash,2025-04-29,nan,Y,Night,GYM-29478,Requested new barbell sets
+Renewed,43,59.99,4,4,8.9,279,259,2,0,0,m,Downtown,Cash,30/04/25,WINTER20,No,Morning,GYM-73332,Requested new barbell sets
+Renewed,34,49.99,7,10,2.2,288,307,0,1,0,Female,Downtown,Cash,2025-05-02,nan,Yes,Evening,GYM-14379,Showers are cold
+Renewed,33,59.99,4,11,2.9,205,260,2,0,0,m,Uptown,Direct Debit,2025-05-03,nan,Y,Morning,GYM-26496,Requested new barbell sets
+Renewed,66,79.99,6,6,0.3,42,237,1,1,0,femal,Northside,Direct Debit,2025-05-05,nan,Yes,Morning,GYM-61572,Showers are cold
+Expired,37,49.99,5,11,1.3,117,105,2,0,0,F,Uptown,Credit Card,06/05/25,WINTER20,No,Morning,GYM-38868,Prefers morning yoga
+Renewed,27,49.99,1,7,0.7,4,246,1,0,0,F,Downtown,Cash,2025-05-08,nan,No,Night,GYM-15283,Showers are cold
+Cancelled,30,79.99,2,7,4.5,206,303,0,3,0,F,Downtown,Cash,2025-05-09,nan,Yes,Night,GYM-88716,Showers are cold
+Cancelled,-5,59.99,6,0,0.4,122,342,2,2,0,M,Downtown,Cash,2025-05-11,nan,Yes,Afternoon,GYM-27205,Showers are cold
+Renewed,36,79.99,3,6,1.2,141,37,0,0,0,m,Northside,Cash,12/05/25,nan,Y,Evening,GYM-64916,Requested new barbell sets
+Cancelled,20,59.99,6,0,1.8,231,307,1,2,0,M,Downtown,Cash,2025-05-14,nan,Y,Afternoon,GYM-86173,Showers are cold
+Renewed,44,79.99,7,9,1.4,163,342,2,1,0,F,Downtown,Direct Debit,2025-05-15,nan,No,Afternoon,GYM-55246,Prefers morning yoga
+Expired,28,,5,8,3.5,34,45,3,0,0,Female,Northside,Direct Debit,2025-05-17,nan,Yes,Evening,GYM-60971,Prefers morning yoga
+Renewed,53,59.99,7,7,0.5,10,209,1,1,0,Female,Downtown,Cash,18/05/25,nan,Yes,Evening,GYM-57596,Prefers morning yoga
+Renewed,45,79.99,2,8,0.9,74,92,0,0,0,femal,Northside,Cash,2025-05-19,WINTER20,Yes,Afternoon,GYM-35842,Prefers morning yoga
+Renewed,30,59.99,8,10,3.1,299,219,0,0,0,m,Downtown,Direct Debit,2025-05-21,nan,No,Afternoon,GYM-33015,Prefers morning yoga
+Expired,47,49.99,7,9,1.5,197,255,1,0,0,femal,Northside,Direct Debit,2025-05-22,nan,Yes,Afternoon,GYM-34395,Prefers morning yoga
+Renewed,35,49.99,4,7,1.0,263,136,2,0,0,Female,Northside,Credit Card,24/05/25,WINTER20,Yes,Night,GYM-92195,Showers are cold
+Cancelled,43,49.99,5,3,0.1,223,230,3,2,0,F,Northside,Direct Debit,2025-05-25,WINTER20,No,Evening,GYM-73090,Requested new barbell sets
+Renewed,39,49.99,1,16,2.8,121,305,2,0,0,femal,Northside,Credit Card,2025-05-27,nan,No,Evening,GYM-37487,Requested new barbell sets
+Cancelled,26,49.99,3,3,7.2,73,201,0,0,0,femal,Uptown,Cash,2025-05-28,nan,No,Morning,GYM-35906,Prefers morning yoga
+Renewed,28,59.99,3,7,1.9,27,65,2,0,0,femal,Northside,Cash,30/05/25,nan,No,Night,GYM-20535,Showers are cold
+Cancelled,45,59.99,2,2,3.9,170,37,0,3,0,m,Northside,Cash,2025-05-31,nan,No,Night,GYM-91088,Prefers morning yoga
+Renewed,31,49.99,5,8,1.5,215,154,1,0,0,m,Northside,Direct Debit,2025-06-02,WINTER20,Yes,Evening,GYM-60539,Prefers morning yoga
+Renewed,30,59.99,5,8,0.5,100,104,1,0,0,F,Northside,Direct Debit,2025-06-03,nan,No,Night,GYM-79531,Prefers morning yoga
+Renewed,25,49.99,2,8,0.0,245,254,1,0,0,F,Downtown,Cash,05/06/25,nan,No,Afternoon,GYM-33477,Prefers morning yoga
+Renewed,39,49.99,6,15,2.1,92,15,4,2,0,F,Downtown,Cash,2025-06-06,nan,No,Evening,GYM-40977,Requested new barbell sets
+Cancelled,55,49.99,1,1,1.4,62,78,0,2,0,femal,Northside,Credit Card,2025-06-07,WINTER20,No,Evening,GYM-87837,Requested new barbell sets
+Renewed,24,59.99,4,7,3.0,265,12,1,0,0,F,Northside,Direct Debit,2025-06-09,nan,No,Night,GYM-98619,Showers are cold
+Cancelled,35,49.99,1,4,2.4,205,369,1,3,0,m,Uptown,Direct Debit,10/06/25,nan,Y,Evening,GYM-23295,Showers are cold
+Renewed,49,49.99,1,6,8.8,79,101,2,0,0,Female,Northside,Credit Card,2025-06-12,nan,No,Night,GYM-73697,Prefers morning yoga
+Renewed,34,49.99,3,7,1.4,36,151,1,0,0,F,Northside,Cash,2025-06-13,nan,No,Night,GYM-52023,Requested new barbell sets
+Renewed,39,,3,8,1.1,10,177,1,0,0,Male,Northside,Cash,2025-06-15,nan,No,Night,GYM-98810,Prefers morning yoga
+Renewed,24,49.99,1,13,0.7,114,390,0,0,0,m,Downtown,Direct Debit,16/06/25,nan,Yes,Afternoon,GYM-54265,Requested new barbell sets
+Cancelled,39,,5,5,1.3,89,86,0,2,0,M,Northside,Direct Debit,2025-06-18,WINTER20,No,Night,GYM-48673,Requested new barbell sets
+Renewed,33,59.99,6,9,4.1,231,87,2,0,0,Female,Northside,Cash,2025-06-19,nan,Y,Night,GYM-61055,Showers are cold
+Renewed,44,59.99,0,10,0.1,18,28,3,0,0,m,Uptown,Credit Card,2025-06-21,nan,Yes,Morning,GYM-13361,Showers are cold
+Cancelled,46,79.99,2,2,7.6,51,388,1,0,0,F,Downtown,Credit Card,22/06/25,nan,Yes,Morning,GYM-68198,Requested new barbell sets
+Expired,60,49.99,5,5,10.0,273,362,0,0,0,femal,Uptown,Credit Card,2025-06-24,nan,No,Afternoon,GYM-86623,Showers are cold
+Renewed,40,49.99,3,11,1.8,93,320,1,0,0,Male,Northside,Direct Debit,2025-06-25,nan,Yes,Afternoon,GYM-38626,Prefers morning yoga
+Renewed,38,79.99,5,11,0.8,31,99,0,0,0,M,Uptown,Credit Card,2025-06-26,nan,No,Night,GYM-38388,Requested new barbell sets
+Cancelled,36,49.99,2,3,0.5,150,114,0,1,0,Female,Northside,Direct Debit,28/06/25,nan,Yes,Morning,GYM-85643,Requested new barbell sets
+Renewed,31,59.99,6,7,0.6,139,209,1,0,0,F,Northside,Direct Debit,2025-06-29,nan,No,Afternoon,GYM-94918,Requested new barbell sets
+Renewed,38,59.99,4,7,0.1,57,342,0,0,0,m,Downtown,Cash,2025-07-01,nan,No,Evening,GYM-27725,Prefers morning yoga
+Renewed,32,59.99,2,10,1.3,20,73,1,0,0,m,Uptown,Cash,2025-07-02,nan,No,Evening,GYM-12455,Requested new barbell sets
+Cancelled,36,79.99,4,1,0.1,148,134,2,0,0,Female,Northside,Credit Card,04/07/25,WINTER20,Yes,Night,GYM-13792,Showers are cold
+Cancelled,48,79.99,6,2,2.5,220,268,1,2,0,Male,Uptown,Credit Card,2025-07-05,WINTER20,Yes,Morning,GYM-37727,Prefers morning yoga
+Renewed,24,59.99,5,10,0.9,220,349,2,0,0,femal,Downtown,Direct Debit,2025-07-07,nan,Yes,Evening,GYM-54838,Requested new barbell sets
+Renewed,46,49.99,5,15,0.4,241,77,1,0,0,F,Northside,Cash,2025-07-08,nan,No,Morning,GYM-48632,Prefers morning yoga
+Renewed,48,79.99,6,8,1.6,218,379,1,1,0,Female,Downtown,Cash,10/07/25,nan,Yes,Afternoon,GYM-91733,Prefers morning yoga
+Cancelled,33,49.99,4,2,7.3,28,124,0,3,0,Female,Uptown,Direct Debit,2025-07-11,nan,No,Morning,GYM-98911,Showers are cold
+Renewed,13,49.99,8,16,2.4,46,37,1,1,0,m,Uptown,Credit Card,2025-07-13,nan,No,Night,GYM-97816,Showers are cold
+Renewed,28,,0,5,1.4,57,268,1,0,0,Female,Uptown,Credit Card,2025-07-14,nan,Yes,Morning,GYM-11308,Showers are cold
+Cancelled,47,49.99,2,3,3.0,274,309,1,1,0,M,Northside,Direct Debit,15/07/25,nan,Yes,Evening,GYM-26315,Requested new barbell sets
+Renewed,34,49.99,1,11,2.7,139,105,1,0,0,M,Northside,Cash,2025-07-17,WINTER20,Yes,Morning,GYM-50857,Requested new barbell sets
+Cancelled,25,49.99,1,1,4.4,22,43,0,3,0,F,Northside,Direct Debit,2025-07-18,nan,No,Morning,GYM-99717,Showers are cold
+Renewed,29,79.99,6,3,0.5,62,224,1,0,0,Female,Downtown,Direct Debit,2025-07-20,nan,Yes,Morning,GYM-19893,Showers are cold
+Renewed,43,59.99,8,15,3.9,51,241,2,0,0,m,Uptown,Credit Card,21/07/25,nan,Yes,Afternoon,GYM-88233,Requested new barbell sets
+Renewed,40,,3,3,0.7,265,396,1,0,0,femal,Uptown,Cash,2025-07-23,nan,Yes,Night,GYM-78749,Showers are cold
+Cancelled,32,49.99,3,4,5.7,166,152,1,2,0,F,Uptown,Credit Card,2025-07-24,nan,Y,Evening,GYM-18438,Prefers morning yoga
+Cancelled,31,59.99,8,4,0.7,150,23,1,1,0,Male,Downtown,Credit Card,2025-07-26,nan,No,Evening,GYM-44992,Prefers morning yoga
+Cancelled,31,59.99,4,6,5.2,10,123,0,1,0,m,Northside,Cash,27/07/25,WINTER20,No,Morning,GYM-78394,Prefers morning yoga
+Renewed,25,49.99,3,9,6.6,94,284,1,0,0,Male,Downtown,Credit Card,2025-07-29,nan,Yes,Morning,GYM-93287,Requested new barbell sets
+Cancelled,51,49.99,9,4,0.3,71,347,2,0,0,F,Uptown,Direct Debit,2025-07-30,nan,Yes,Afternoon,GYM-38935,Showers are cold
+Renewed,31,49.99,2,8,7.3,47,260,1,1,0,M,Uptown,Direct Debit,2025-08-01,nan,Yes,Night,GYM-87991,Prefers morning yoga
+Renewed,47,79.99,5,4,0.2,271,145,0,0,0,m,Downtown,Cash,02/08/25,nan,Y,Evening,GYM-59854,Requested new barbell sets
+Cancelled,50,59.99,5,1,0.5,94,190,1,1,0,femal,Northside,Direct Debit,2025-08-03,nan,Yes,Night,GYM-85651,Showers are cold
+Renewed,44,,4,13,1.2,232,380,0,0,0,m,Northside,Direct Debit,2025-08-05,nan,No,Evening,GYM-60702,Showers are cold
+Renewed,30,49.99,3,9,10.1,47,164,5,0,0,F,Uptown,Direct Debit,2025-08-06,WINTER20,Yes,Morning,GYM-65823,Prefers morning yoga
+Renewed,39,59.99,6,6,1.3,207,70,1,0,0,m,Downtown,Direct Debit,08/08/25,nan,No,Afternoon,GYM-93253,Showers are cold
+Renewed,34,59.99,3,6,1.6,226,200,0,0,0,m,Northside,Credit Card,2025-08-09,nan,Yes,Afternoon,GYM-73102,Showers are cold
+Renewed,25,59.99,2,8,2.4,76,354,2,1,0,F,Downtown,Direct Debit,2025-08-11,WINTER20,No,Morning,GYM-60950,Prefers morning yoga
+Cancelled,38,,1,3,6.9,218,11,0,0,0,Female,Uptown,Cash,2025-08-12,nan,Y,Morning,GYM-62607,Prefers morning yoga
+Renewed,23,49.99,2,8,3.1,80,51,0,0,0,F,Uptown,Credit Card,14/08/25,nan,No,Morning,GYM-78901,Showers are cold
+Cancelled,46,49.99,1,4,0.5,36,255,2,0,0,m,Uptown,Direct Debit,2025-08-15,nan,No,Night,GYM-61779,Requested new barbell sets
+Cancelled,30,59.99,3,3,0.7,101,301,1,2,0,femal,Uptown,Direct Debit,2025-08-17,nan,No,Morning,GYM-44852,Requested new barbell sets
+Renewed,37,59.99,8,5,0.2,190,359,5,1,0,femal,Northside,Cash,2025-08-18,nan,No,Night,GYM-71986,Prefers morning yoga
+Renewed,37,59.99,1,8,2.1,28,299,2,0,0,F,Uptown,Credit Card,20/08/25,nan,Yes,Morning,GYM-80509,Showers are cold
+Renewed,32,49.99,4,7,0.4,252,8,3,0,0,m,Northside,Direct Debit,2025-08-21,nan,Yes,Afternoon,GYM-55427,Prefers morning yoga
+Cancelled,40,,8,4,0.6,250,139,0,1,0,Male,Northside,Cash,2025-08-22,WINTER20,No,Night,GYM-46194,Requested new barbell sets
+Renewed,30,49.99,3,11,4.4,225,99,0,2,0,Male,Downtown,Credit Card,2025-08-24,nan,No,Afternoon,GYM-65989,Requested new barbell sets
+Cancelled,43,49.99,3,2,0.8,93,136,1,2,0,M,Uptown,Credit Card,25/08/25,WINTER20,Y,Morning,GYM-26863,Showers are cold
+Renewed,21,59.99,7,11,1.7,85,358,1,0,0,F,Northside,Direct Debit,2025-08-27,nan,No,Morning,GYM-37533,Prefers morning yoga
+Cancelled,36,59.99,4,6,1.0,109,365,3,1,0,F,Downtown,Cash,2025-08-28,nan,No,Evening,GYM-95650,Prefers morning yoga
+Renewed,54,49.99,2,5,0.2,216,371,2,0,0,Male,Downtown,Cash,2025-08-30,nan,Yes,Night,GYM-65511,Requested new barbell sets
+Renewed,24,49.99,1,6,0.9,195,21,0,0,0,Male,Uptown,Direct Debit,31/08/25,WINTER20,No,Night,GYM-99062,Prefers morning yoga
+Expired,28,49.99,7,6,1.0,296,144,3,0,0,Male,Uptown,Direct Debit,2025-09-02,nan,No,Night,GYM-91546,Prefers morning yoga
+Cancelled,40,49.99,5,5,4.5,43,160,1,2,0,femal,Downtown,Direct Debit,2025-09-03,nan,No,Night,GYM-87740,Prefers morning yoga
+Renewed,36,59.99,2,3,0.8,89,248,0,0,0,femal,Northside,Cash,2025-09-05,nan,Yes,Afternoon,GYM-35275,Showers are cold
+Cancelled,38,79.99,6,0,1.0,154,174,1,5,0,M,Uptown,Credit Card,06/09/25,WINTER20,Y,Night,GYM-45415,Requested new barbell sets
+Renewed,999,49.99,3,2,3.1,108,87,1,0,0,M,Downtown,Direct Debit,2025-09-08,nan,Yes,Afternoon,GYM-31750,Prefers morning yoga
+Cancelled,41,,3,1,2.8,58,398,3,2,1,Female,Downtown,Direct Debit,2025-09-09,nan,Yes,Morning,GYM-47876,Showers are cold
+Cancelled,46,79.99,1,3,3.2,109,32,1,4,0,femal,Northside,Credit Card,2025-09-10,nan,Y,Afternoon,GYM-44489,Prefers morning yoga
+Renewed,39,79.99,5,4,6.1,105,270,0,0,0,F,Northside,Credit Card,12/09/25,nan,No,Night,GYM-78695,Prefers morning yoga
+Renewed,32,49.99,3,12,3.2,220,282,1,0,0,M,Downtown,Cash,2025-09-13,nan,No,Afternoon,GYM-92253,Requested new barbell sets
+Renewed,41,79.99,4,4,1.0,262,225,4,1,0,m,Northside,Direct Debit,2025-09-15,nan,Y,Night,GYM-18855,Showers are cold
+Renewed,53,49.99,4,7,3.4,81,111,1,0,0,F,Uptown,Cash,2025-09-16,nan,Yes,Afternoon,GYM-76759,Prefers morning yoga
+Cancelled,33,,7,1,1.4,271,81,0,0,0,Female,Downtown,Credit Card,18/09/25,nan,Yes,Evening,GYM-78990,Requested new barbell sets
+Renewed,25,49.99,4,6,0.7,48,212,0,0,0,Male,Northside,Direct Debit,2025-09-19,nan,No,Night,GYM-54459,Showers are cold
+Renewed,46,49.99,3,8,0.7,31,303,3,0,0,Female,Northside,Cash,2025-09-21,WINTER20,Yes,Afternoon,GYM-56414,Prefers morning yoga
+Cancelled,33,49.99,2,6,0.5,88,7,1,4,0,F,Northside,Cash,2025-09-22,nan,Y,Night,GYM-37073,Requested new barbell sets
+Expired,13,49.99,2,8,0.3,18,133,1,1,0,Male,Northside,Credit Card,24/09/25,nan,No,Morning,GYM-65511,Prefers morning yoga
+Renewed,43,49.99,2,9,0.4,2,117,0,0,0,Female,Downtown,Direct Debit,2025-09-25,nan,Yes,Afternoon,GYM-51900,Prefers morning yoga
+Renewed,29,79.99,4,8,0.1,59,83,4,0,0,Female,Northside,Cash,2025-09-27,nan,No,Afternoon,GYM-33199,Showers are cold
+Renewed,34,79.99,4,8,4.4,241,257,0,0,0,F,Uptown,Cash,2025-09-28,nan,Yes,Evening,GYM-64526,Requested new barbell sets
+Renewed,38,49.99,4,8,5.3,28,242,3,0,0,M,Uptown,Credit Card,29/09/25,nan,No,Night,GYM-42272,Showers are cold
+Expired,36,79.99,4,8,1.8,74,236,1,0,0,m,Downtown,Direct Debit,2025-10-01,nan,Y,Afternoon,GYM-47301,Prefers morning yoga
+Renewed,42,79.99,5,7,3.7,69,149,1,0,0,Female,Downtown,Credit Card,2025-10-02,nan,No,Evening,GYM-73957,Requested new barbell sets
+Cancelled,30,59.99,3,2,0.4,82,373,3,2,0,m,Uptown,Cash,2025-10-04,SUMMER50,Yes,Evening,GYM-10005,Prefers morning yoga
+Renewed,40,49.99,3,10,4.6,172,20,1,0,0,femal,Uptown,Direct Debit,05/10/25,nan,Yes,Evening,GYM-53226,Prefers morning yoga
+Cancelled,32,59.99,1,5,1.4,196,133,0,1,0,femal,Downtown,Credit Card,2025-10-07,SUMMER50,Yes,Night,GYM-40208,Prefers morning yoga
+Cancelled,42,,6,1,0.1,146,378,1,0,0,F,Uptown,Direct Debit,2025-10-08,nan,No,Night,GYM-33103,Requested new barbell sets
+Cancelled,41,59.99,6,1,0.3,272,95,1,1,0,F,Uptown,Direct Debit,2025-10-10,WINTER20,No,Afternoon,GYM-84240,Prefers morning yoga
+Renewed,25,49.99,5,7,0.7,34,12,1,0,0,M,Downtown,Direct Debit,11/10/25,nan,Yes,Night,GYM-21452,Requested new barbell sets
+Renewed,45,59.99,4,8,0.1,112,0,1,0,0,Male,Downtown,Cash,2025-10-13,nan,No,Night,GYM-23558,Prefers morning yoga
+Renewed,29,59.99,3,12,0.7,205,149,1,1,0,m,Northside,Direct Debit,2025-10-14,nan,No,Morning,GYM-21008,Showers are cold
+Expired,43,59.99,2,4,0.1,157,116,0,0,0,Female,Northside,Credit Card,2025-10-16,nan,No,Night,GYM-51936,Requested new barbell sets
+Cancelled,38,49.99,3,0,0.5,252,151,2,3,0,Male,Uptown,Direct Debit,17/10/25,nan,Yes,Morning,GYM-61885,Prefers morning yoga
+Cancelled,53,49.99,4,4,0.6,121,63,2,4,0,femal,Downtown,Direct Debit,2025-10-18,nan,Y,Afternoon,GYM-76156,Showers are cold
+Cancelled,32,79.99,4,1,10.4,47,149,0,2,0,femal,Northside,Cash,2025-10-20,nan,Yes,Evening,GYM-42315,Requested new barbell sets
+Cancelled,31,79.99,4,0,0.5,184,316,1,1,0,m,Uptown,Credit Card,2025-10-21,nan,No,Morning,GYM-55610,Showers are cold
+Renewed,34,49.99,8,9,0.5,272,363,0,0,0,m,Uptown,Direct Debit,23/10/25,nan,Yes,Afternoon,GYM-17595,Prefers morning yoga
+Expired,31,,3,7,2.3,100,11,2,0,0,Male,Uptown,Cash,2025-10-24,nan,No,Morning,GYM-88373,Showers are cold
+Renewed,42,49.99,4,4,3.9,14,89,2,0,0,Male,Uptown,Cash,2025-10-26,nan,No,Night,GYM-73850,Prefers morning yoga
+Renewed,18,59.99,3,13,1.0,127,387,1,0,0,M,Downtown,Direct Debit,2025-10-27,nan,No,Afternoon,GYM-18785,Prefers morning yoga
+Renewed,24,,5,7,4.2,209,82,0,0,0,Female,Uptown,Direct Debit,29/10/25,nan,No,Evening,GYM-81388,Requested new barbell sets
+Renewed,24,,6,8,0.8,111,249,0,1,0,Female,Northside,Direct Debit,2025-10-30,nan,Yes,Morning,GYM-20134,Prefers morning yoga
+Renewed,44,79.99,7,7,0.4,269,383,0,0,0,Female,Downtown,Cash,2025-11-01,nan,No,Night,GYM-18814,Prefers morning yoga
+Cancelled,52,49.99,7,1,0.8,141,395,0,2,0,femal,Uptown,Direct Debit,2025-11-02,nan,No,Afternoon,GYM-87576,Requested new barbell sets
+Renewed,33,79.99,3,8,1.9,172,32,0,0,0,femal,Northside,Cash,04/11/25,nan,Yes,Night,GYM-33687,Requested new barbell sets
+Cancelled,33,49.99,3,1,0.9,165,148,2,4,0,Male,Northside,Credit Card,2025-11-05,nan,Y,Afternoon,GYM-14529,Prefers morning yoga
+Renewed,35,59.99,3,9,2.2,118,127,1,1,0,M,Downtown,Direct Debit,2025-11-06,nan,No,Morning,GYM-46687,Prefers morning yoga
+Renewed,46,59.99,3,7,0.5,202,99,0,0,0,F,Downtown,Credit Card,2025-11-08,nan,No,Afternoon,GYM-77060,Requested new barbell sets
+Renewed,25,,7,8,2.4,10,361,0,1,0,M,Downtown,Credit Card,09/11/25,nan,No,Morning,GYM-49994,Requested new barbell sets
+Renewed,37,49.99,4,9,0.9,248,327,2,0,0,femal,Northside,Credit Card,2025-11-11,nan,Yes,Afternoon,GYM-41497,Showers are cold
+Cancelled,44,79.99,5,1,1.2,247,211,1,0,0,Male,Northside,Cash,2025-11-12,nan,No,Night,GYM-73627,Showers are cold
+Renewed,40,49.99,2,8,1.6,153,73,0,0,0,M,Uptown,Cash,2025-11-14,nan,No,Night,GYM-92812,Showers are cold
+Cancelled,36,49.99,5,0,2.3,24,95,1,4,0,Male,Downtown,Cash,15/11/25,nan,Yes,Morning,GYM-18819,Requested new barbell sets
+Renewed,45,59.99,6,9,0.5,220,91,1,0,0,m,Downtown,Cash,2025-11-17,nan,No,Evening,GYM-97243,Requested new barbell sets
+Cancelled,7,49.99,10,0,3.6,109,329,2,1,0,m,Downtown,Credit Card,2025-11-18,nan,Yes,Morning,GYM-55213,Requested new barbell sets
+Expired,41,79.99,2,3,2.6,89,327,1,0,0,F,Downtown,Cash,2025-11-20,SUMMER50,Yes,Night,GYM-72793,Showers are cold
+Cancelled,28,49.99,6,2,0.5,264,174,0,0,0,femal,Northside,Credit Card,21/11/25,nan,Yes,Afternoon,GYM-40915,Prefers morning yoga
+Renewed,16,49.99,7,12,7.4,39,224,1,0,0,m,Downtown,Credit Card,2025-11-23,nan,Y,Evening,GYM-70115,Prefers morning yoga
+Renewed,40,79.99,3,4,2.2,262,314,0,0,0,F,Northside,Cash,2025-11-24,nan,No,Night,GYM-10552,Prefers morning yoga
+Renewed,48,59.99,5,11,1.2,157,174,0,0,0,Female,Northside,Credit Card,2025-11-25,nan,Yes,Evening,GYM-89718,Requested new barbell sets
+Cancelled,33,49.99,2,1,0.3,117,55,1,1,0,Male,Downtown,Cash,27/11/25,nan,No,Morning,GYM-23149,Prefers morning yoga
+Renewed,44,59.99,4,7,1.5,255,268,0,0,0,Female,Northside,Credit Card,2025-11-28,nan,Yes,Night,GYM-69849,Prefers morning yoga
+Renewed,51,59.99,3,10,0.4,195,34,1,0,0,Female,Northside,Direct Debit,2025-11-30,nan,No,Morning,GYM-25155,Requested new barbell sets
+Cancelled,48,59.99,3,0,1.1,13,118,1,0,0,F,Downtown,Cash,2025-12-01,nan,No,Night,GYM-85813,Requested new barbell sets
+Renewed,51,49.99,1,5,1.1,117,370,2,1,0,Male,Downtown,Credit Card,03/12/25,nan,No,Night,GYM-90212,Requested new barbell sets
+Cancelled,42,79.99,6,3,2.5,216,55,0,2,0,F,Uptown,Cash,2025-12-04,nan,No,Morning,GYM-19785,Requested new barbell sets
+Renewed,35,79.99,3,8,0.4,204,388,2,0,0,M,Northside,Credit Card,2025-12-06,nan,No,Night,GYM-30781,Requested new barbell sets
+Renewed,18,59.99,7,8,3.5,76,308,0,0,0,Female,Northside,Cash,2025-12-07,nan,No,Evening,GYM-21970,Showers are cold
+Cancelled,32,49.99,6,2,0.8,171,356,0,5,0,Male,Uptown,Direct Debit,09/12/25,nan,No,Evening,GYM-78800,Requested new barbell sets
+Renewed,26,79.99,3,8,1.2,25,375,2,0,0,Female,Uptown,Direct Debit,2025-12-10,nan,No,Morning,GYM-84343,Prefers morning yoga
+Cancelled,56,,3,0,3.0,127,315,0,2,0,M,Downtown,Cash,2025-12-12,nan,No,Afternoon,GYM-40319,Prefers morning yoga
+Renewed,33,59.99,2,10,2.0,141,104,0,0,0,femal,Uptown,Cash,2025-12-13,WINTER20,Y,Evening,GYM-79763,Showers are cold
+Renewed,36,49.99,4,8,0.7,23,389,0,0,0,M,Downtown,Credit Card,14/12/25,nan,No,Night,GYM-36207,Requested new barbell sets
+Cancelled,40,79.99,5,4,1.0,231,175,2,1,0,femal,Downtown,Credit Card,2025-12-16,nan,No,Morning,GYM-40290,Prefers morning yoga
+Cancelled,35,59.99,6,2,0.7,176,105,1,2,0,Male,Downtown,Cash,2025-12-17,nan,No,Afternoon,GYM-97209,Prefers morning yoga
+Cancelled,51,49.99,5,1,1.8,234,79,2,2,0,Male,Northside,Direct Debit,2025-12-19,nan,Yes,Morning,GYM-19136,Requested new barbell sets
+Renewed,28,49.99,1,10,0.8,25,162,1,1,0,M,Northside,Direct Debit,20/12/25,nan,No,Evening,GYM-14980,Showers are cold
+Cancelled,36,,8,6,2.6,265,266,2,2,0,Female,Downtown,Cash,2025-12-22,nan,No,Night,GYM-99734,Requested new barbell sets
+Renewed,27,49.99,8,8,1.7,116,50,3,1,0,m,Uptown,Credit Card,2025-12-23,WINTER20,No,Evening,GYM-56344,Requested new barbell sets
+Renewed,21,79.99,3,4,0.3,57,376,0,0,0,Female,Northside,Cash,2025-12-25,nan,No,Morning,GYM-66799,Requested new barbell sets
+Expired,28,59.99,6,12,0.7,269,278,2,0,0,m,Northside,Cash,26/12/25,nan,Yes,Night,GYM-82907,Requested new barbell sets
+Renewed,34,59.99,4,4,0.5,294,302,1,0,0,F,Uptown,Direct Debit,2025-12-28,nan,Yes,Afternoon,GYM-61107,Requested new barbell sets
+Expired,30,49.99,3,5,1.0,121,74,0,0,0,Male,Northside,Direct Debit,2025-12-29,nan,No,Evening,GYM-75264,Showers are cold
+Renewed,28,49.99,7,7,1.5,158,348,2,0,0,M,Uptown,Credit Card,2025-12-31,nan,Yes,Morning,GYM-12396,Prefers morning yoga
